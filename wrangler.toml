@@ -1,0 +1,30 @@
+name = "seaworthy-mcp-worker"
+main = "src/index.ts"
+compatibility_date = "2025-01-01"
+
+routes = [
+  { pattern = "mcp.seaworthy.io", custom_domain = true }
+]
+
+# Spam-control store: per-IP rate-limit counters + duplicate-submission keys.
+[[kv_namespaces]]
+binding = "ABUSE_KV"
+id = "e422302ead3a4df299e0b14ca28d00ba"
+
+[vars]
+SITE_BASE_URL = "https://seaworthy.io"
+# Salesforce Web-to-Lead endpoint (mirrors the live /quote/ form action exactly).
+SALESFORCE_WEB_TO_LEAD_URL = "https://webto.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8"
+SALESFORCE_ORG_ID = "00D36000000bgy6"
+# Lead Source picklist API Name posted on field 00N3600000NGrUe.
+# IMPORTANT: this MUST be an existing API Name in Salesforce or Web-to-Lead
+# silently rejects the lead (see the Label-vs-API-Name gotcha). Defaults to the
+# known-good "Website - Quote". Flip to the agent-specific value (e.g. the API
+# Name behind an "MCP Agent" label) ONCE it is created in Setup -> Object Manager
+# -> Lead -> Fields -> Lead Source and the exact API Name is confirmed.
+LEAD_SOURCE = "MCP Agent"
+
+# Secrets (set via `wrangler secret put`):
+#   MCP_QUOTE_TOKEN — REQUIRED. Bearer token gating the quote_request tool.
+#                     Without it, all quote_request calls return 401 (fail-closed).
+#                     Generate a strong random token and store in 1Password.

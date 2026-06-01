@@ -1,0 +1,16 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.seaworthy/mcp",
+  "description": "Disability insurance MCP: a quote_request action plus carrier and coverage research tools.",
+  "repository": {
+    "url": "https://github.com/seaworthy-io/seaworthy-mcp",
+    "source": "github"
+  },
+  "version": "0.3.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.seaworthy.io/mcp"
+    }
+  ]
+}
