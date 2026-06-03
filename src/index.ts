@@ -76,6 +76,15 @@ async function handleRpc(
       return rpcResult(id, {
         tools: TOOL_DEFINITIONS.map((t) => ({ name: t.name, description: t.description, inputSchema: t.inputSchema }))
       });
+    // We do not implement prompts or resources, and no longer advertise them, but
+    // answer their list methods with empty arrays so strict inspectors that probe
+    // anyway (e.g. Glama) get a valid response instead of -32601.
+    case 'prompts/list':
+      return rpcResult(id, { prompts: [] });
+    case 'resources/list':
+      return rpcResult(id, { resources: [] });
+    case 'resources/templates/list':
+      return rpcResult(id, { resourceTemplates: [] });
     case 'tools/call': {
       const name = String(req.params?.name || '');
       const args = (req.params?.arguments || {}) as Record<string, unknown>;
