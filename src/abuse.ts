@@ -51,6 +51,32 @@ export function formatPhone(digits: string): string {
   return `(${digits.slice(0, 3)}) ${digits.slice(3, 6)}-${digits.slice(6)}`;
 }
 
+// Strict format checks still pass structurally valid but nonexistent domains
+// (e.g. a typo'd "gmaiasdfasdfl.com"). A DNS-over-HTTPS lookup confirms the domain
+// can actually receive mail (MX, or an A record as fallback). Fails OPEN on any
+// DNS error so a transient hiccup never blocks a real applicant.
+export async function domainCanReceiveMail(domain: string): Promise<boolean> {
+  const q = async (type: 'MX' | 'A'): Promise<any[] | null> => {
+    try {
+      const resp = await fetch(
+        `https://cloudflare-dns.com/dns-query?name=${encodeURIComponent(domain)}&type=${type}`,
+        { headers: { Accept: 'application/dns-json' } }
+      );
+      if (!resp.ok) return null;
+      const data: any = await resp.json();
+      return Array.isArray(data?.Answer) ? data.Answer : [];
+    } catch {
+      return null;
+    }
+  };
+  const mx = await q('MX');
+  if (mx === null) return true; // DNS error: fail open
+  if (mx.some((a) => a?.type === 15)) return true; // has MX
+  const a = await q('A');
+  if (a === null) return true; // DNS error: fail open
+  return a.some((r) => r?.type === 1); // mail can fall back to the A record
+}
+
 // Per-IP fixed-window rate limit. KV is eventually consistent, which is fine for
 // spam deterrence (it is one of three layers, not a security boundary).
 export async function checkRateLimit(
