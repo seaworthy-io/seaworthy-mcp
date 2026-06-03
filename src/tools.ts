@@ -2,6 +2,7 @@ import { knowledge, resolveSpecialty, resolveEducation, listSpecialtyIndex } fro
 import type { Env } from './env';
 import {
   isValidEmailStrict,
+  domainCanReceiveMail,
   normalizePhoneNANP,
   formatPhone,
   checkRateLimit,
@@ -385,6 +386,10 @@ async function toolQuoteRequest(input: Record<string, unknown>, env: Env, ctx?: 
 
   const email = String(input.email).trim();
   if (!isValidEmailStrict(email)) return errorResult('email failed validation (malformed, role/placeholder address, or disposable domain).');
+  const emailDomain = email.split('@')[1];
+  if (emailDomain && !(await domainCanReceiveMail(emailDomain))) {
+    return errorResult('email domain does not exist or cannot receive mail (no MX or A record). Verify the address with the user.');
+  }
 
   const phoneDigits = normalizePhoneNANP(String(input.phone));
   if (!phoneDigits) return errorResult('phone failed validation (must be a real 10-digit US number).');
