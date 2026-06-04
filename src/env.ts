@@ -7,4 +7,6 @@ export interface Env {
   LEAD_SOURCE?: string;
   // KV store backing spam controls (per-IP rate limiting + duplicate suppression).
   ABUSE_KV: KVNamespace;
+  // Verified-knowledge KV (key "mcp-knowledge", generated from CONTENT-TRUTH.md).
+  KB?: KVNamespace;
 }
