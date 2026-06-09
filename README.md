@@ -1,6 +1,6 @@
-# Seaworthy Insurance Agency — MCP Server
+# Seaworthy Insurance — MCP Server
 
-A live [Model Context Protocol](https://modelcontextprotocol.io) server that lets AI agents take action on behalf of their users with [Seaworthy Insurance Agency](https://seaworthy.io), an independent brokerage specializing in individual disability insurance for high-income professionals (physicians, dentists, CRNAs, attorneys, executives).
+A live [Model Context Protocol](https://modelcontextprotocol.io) server that lets AI agents take action on behalf of their users with [Seaworthy Insurance](https://seaworthy.io), an independent brokerage specializing in individual disability insurance for high-income professionals (physicians, dentists, CRNAs, attorneys, executives).
 
 To our knowledge, this is the first disability insurance brokerage to expose an agent-callable quote action over MCP.
 
@@ -43,8 +43,8 @@ Cloudflare Worker (TypeScript), stateless JSON-RPC over Streamable HTTP. Quote s
 
 ## Author
 
-Built by [Toby Lason](https://seaworthy.io/team/toby-lason/), Managing Partner, Seaworthy Insurance Agency.
+Built by [Toby Lason](https://seaworthy.io/team/toby-lason/), Managing Partner, Seaworthy Insurance.
 
 ## License
 
-Proprietary. The code is published for transparency and discoverability; the hosted endpoint is the supported way to use it.
+MIT (see [LICENSE](LICENSE)). The hosted endpoint at `mcp.seaworthy.io` is the supported way to use it; the code is published for transparency and discoverability.

@@ -1,9 +1,10 @@
 #!/usr/bin/env node
-// Bundle Astro page metadata into a JSON file the MCP Worker ships.
-// Extracts title, description, publishDate, and tldr from the frontmatter
-// of each .astro page in specialties/, education/, carriers/. Snapshots at
-// deploy time; the Worker stays fast and has no runtime dependency on the
-// live site.
+// Bundle the MCP Worker's knowledge.json on deploy.
+//  - specialties / education / carriers / associations: derived from Astro page frontmatter
+//    (title, description, publishDate, tldr), so they always match the live pages.
+//  - carrierMatrix + riders: read from CONTENT-TRUTH.md §13 (the single source of truth),
+//    NOT hardcoded here, so a carrier/rider fact changes in exactly one place.
+// Snapshots at deploy time; the Worker stays fast with no runtime dependency on the live site.
 
 import { readFileSync, readdirSync, writeFileSync, statSync } from 'node:fs';
 import { join, dirname, basename } from 'node:path';
@@ -11,9 +12,23 @@ import { fileURLToPath } from 'node:url';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ASTRO_SRC = join(__dirname, '..', '..', 'astro-site', 'src', 'pages');
+// Content-collection articles (2026-06 migration): most education/specialty/
+// association articles live as markdown in src/content/articles/<section>/,
+// not as .astro pages. Both locations must be scanned or the knowledge
+// silently loses those entries.
+const ARTICLES_SRC = join(__dirname, '..', '..', 'astro-site', 'src', 'content', 'articles');
+const CONTENT_TRUTH = join(__dirname, '..', '..', '..', 'CONTENT-TRUTH.md');
+
+// Noindex routes (paid LPs, utility pages) stay OUT of agent-facing knowledge:
+// an AI agent should never be steered to an ads-only landing page when the
+// canonical organic page exists. Same single source the robots meta and
+// sitemap use.
+const { NOINDEX_ROUTES } = await import(
+  join(__dirname, '..', '..', 'astro-site', 'src', 'data', 'noindex-routes.js')
+);
 const OUT_PATH = join(__dirname, '..', 'src', 'knowledge.json');
 
-const SITE_URL = 'https://disabilityinsurance.io';
+const SITE_URL = 'https://seaworthy.io';
 
 function listAstroFiles(dir) {
   const entries = readdirSync(dir);
@@ -46,13 +61,40 @@ function firstParagraphAfterHero(content) {
   return stripped.length > 40 ? stripped : null;
 }
 
-function bundleSection(section, dirName) {
-  const dir = join(ASTRO_SRC, dirName);
-  const files = listAstroFiles(dir);
+// YAML frontmatter field from a markdown article. Handles quoted and
+// unquoted scalar values on a single line (the shape our frontmatter uses).
+function extractYaml(content, fieldName) {
+  const fm = content.match(/^---\n([\s\S]*?)\n---/);
+  if (!fm) return null;
+  const m = fm[1].match(new RegExp(`^${fieldName}:\\s*(?:"((?:[^"\\\\]|\\\\.)*)"|'((?:[^'\\\\]|\\\\.)*)'|(.+))$`, 'm'));
+  if (!m) return null;
+  const v = (m[1] ?? m[2] ?? m[3] ?? '').trim();
+  return v ? v.replace(/\\"/g, '"').replace(/\\'/g, "'") : null;
+}
+
+function firstParagraphOfMarkdown(content) {
+  const body = content.replace(/^---\n[\s\S]*?\n---/, '');
+  const paragraphMatch = body.match(/<p[^>]*>([\s\S]*?)<\/p>/);
+  if (!paragraphMatch) return null;
+  const stripped = paragraphMatch[1].replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').trim();
+  return stripped.length > 40 ? stripped : null;
+}
+
+function listMdFiles(dir) {
+  try {
+    return readdirSync(dir).map((e) => join(dir, e)).filter((f) => f.endsWith('.md') && statSync(f).isFile());
+  } catch {
+    return [];
+  }
+}
+
+function bundleSection(dirName) {
   const entries = {};
-  for (const f of files) {
+  // .astro pages still in src/pages/<dirName>/ (hubs, carrier reviews, etc.)
+  for (const f of listAstroFiles(join(ASTRO_SRC, dirName))) {
     const slug = basename(f, '.astro');
     if (slug === 'index') continue;
+    if (NOINDEX_ROUTES.includes(`/${dirName}/${slug}/`)) continue;
     const src = readFileSync(f, 'utf8');
     const title = extract(src, 'title');
     const description = extract(src, 'description');
@@ -68,123 +110,53 @@ function bundleSection(section, dirName) {
       tldr: tldr || null
     };
   }
+  // Markdown articles in the content collection for the same section.
+  for (const f of listMdFiles(join(ARTICLES_SRC, dirName))) {
+    const slug = basename(f, '.md');
+    if (NOINDEX_ROUTES.includes(`/${dirName}/${slug}/`)) continue;
+    const src = readFileSync(f, 'utf8');
+    const title = extractYaml(src, 'title');
+    if (!title) continue;
+    entries[slug] = {
+      slug,
+      title,
+      description: extractYaml(src, 'description'),
+      url: `${SITE_URL}/${dirName}/${slug}/`,
+      publishDate: extractYaml(src, 'publishDate'),
+      tldr: extractYaml(src, 'tldr') || firstParagraphOfMarkdown(src)
+    };
+  }
   return entries;
 }
+
+// Read carrierMatrix + riders from the single source of truth (CONTENT-TRUTH.md §13).
+function readStructured() {
+  const md = readFileSync(CONTENT_TRUTH, 'utf8');
+  const after13 = md.split(/^##\s+13\.\s/m)[1];
+  if (!after13) throw new Error('bundle-knowledge: CONTENT-TRUTH.md §13 (MCP structured data) not found');
+  const sec = after13.split(/^##\s+1[4-9]\.\s/m)[0]; // bound to §13 (stop at §14+)
+  const m = sec.match(/```json\s*([\s\S]*?)```/);
+  if (!m) throw new Error('bundle-knowledge: no ```json block in CONTENT-TRUTH.md §13');
+  const data = JSON.parse(m[1]);
+  if (!Array.isArray(data.carrierMatrix) || !Array.isArray(data.riders)) {
+    throw new Error('bundle-knowledge: §13 JSON missing carrierMatrix/riders arrays');
+  }
+  return data;
+}
+
+const structured = readStructured();
 
 const knowledge = {
   generatedAt: new Date().toISOString(),
   siteUrl: SITE_URL,
   sections: {
-    specialties: bundleSection('specialties', 'specialties'),
-    education: bundleSection('education', 'education'),
-    carriers: bundleSection('carriers', 'carriers'),
-    associations: bundleSection('associations', 'associations')
+    specialties: bundleSection('specialties'),
+    education: bundleSection('education'),
+    carriers: bundleSection('carriers'),
+    associations: bundleSection('associations')
   },
-  carrierMatrix: [
-    {
-      carrier: 'Guardian',
-      product: 'ProVider Plus',
-      ownOcc: 'True own-occupation with industry-leading contract language',
-      strengths: ['Financial strength', 'Claims handling reputation', 'Strong mental/nervous clauses in select states'],
-      dividendPotential: false,
-      profile: `${SITE_URL}/carriers/guardian/`,
-      bestFor: 'Physicians, dentists, high earners who prioritize claims reputation'
-    },
-    {
-      carrier: 'MassMutual',
-      product: 'Radius',
-      ownOcc: 'True own-occupation; specialist-friendly language',
-      strengths: ['Mutual company dividends', 'Long-term policyholder value', 'Competitive for financial professionals'],
-      dividendPotential: true,
-      profile: `${SITE_URL}/carriers/massmutual/`,
-      bestFor: 'Professionals valuing long-term dividend potential'
-    },
-    {
-      carrier: 'Principal',
-      product: 'Individual DI',
-      ownOcc: 'True own-occupation; strong surgical language',
-      strengths: ['Competitive surgical/dental rates', 'Thorough underwriting', 'Catastrophic Disability rider'],
-      dividendPotential: false,
-      profile: `${SITE_URL}/carriers/principal/`,
-      bestFor: 'Surgeons, dentists, and procedural specialists'
-    },
-    {
-      carrier: 'Ameritas',
-      product: 'DInamic',
-      ownOcc: 'True own-occupation; competitive contract',
-      strengths: ['Efficient underwriting', 'Competitive pricing', 'Straightforward contract'],
-      dividendPotential: false,
-      profile: `${SITE_URL}/carriers/ameritas/`,
-      bestFor: 'Value-conscious professionals'
-    },
-    {
-      carrier: 'The Standard',
-      product: 'Platinum Advantage',
-      ownOcc: 'True own-occupation; clear contract language',
-      strengths: ['Contract clarity', 'Strong across career stages', 'Survivor Benefit rider'],
-      dividendPotential: false,
-      profile: `${SITE_URL}/carriers/the-standard/`,
-      bestFor: 'Professionals across career stages seeking clear language'
-    }
-  ],
-  riders: [
-    {
-      name: 'Residual (Partial) Disability',
-      worthIt: 'almost always',
-      audience: 'every high earner',
-      summary: 'Pays a proportional benefit when a covered disability reduces income by roughly 15-20% or more. Most disabilities are partial, not total; without this rider a policy only pays when you cannot work at all.',
-      reference: `${SITE_URL}/education/residual-disability-benefits/`
-    },
-    {
-      name: 'Cost-of-Living Adjustment (COLA)',
-      worthIt: 'high value under age 45',
-      audience: 'early- and mid-career professionals',
-      summary: 'Increases the monthly benefit during long claims to keep pace with inflation. Compound 3% is the standard structure. Value drops materially past age 50 because the remaining benefit horizon shortens.',
-      reference: `${SITE_URL}/education/cola-rider/`
-    },
-    {
-      name: 'Future Increase Option (FIO)',
-      worthIt: 'essential for early career',
-      audience: 'residents, fellows, early-career professionals',
-      summary: 'Locks in insurability. Lets the insured buy more coverage as income rises without new medical underwriting. Typically available until age 55 or a set number of years.',
-      reference: `${SITE_URL}/education/future-increase-options/`
-    },
-    {
-      name: 'Own-Occupation Enhancement',
-      worthIt: 'depends on base contract',
-      audience: 'anyone with a modified-own-occ base policy',
-      summary: 'Extends the true own-occupation definition beyond the standard 24-month transition if the base contract is modified own-occ. Not needed when the base policy is true own-occ to age 65 by default.',
-      reference: `${SITE_URL}/education/own-occupation-definitions-by-carrier/`
-    },
-    {
-      name: 'Retirement Protection',
-      worthIt: 'context-dependent',
-      audience: 'high earners with significant retirement-savings goals',
-      summary: 'Continues retirement-fund contributions during a disability. Valuable with a long career horizon and large retirement-savings targets; less valuable for late-career buyers.',
-      reference: `${SITE_URL}/education/retirement-protection-rider/`
-    },
-    {
-      name: 'Return of Premium',
-      worthIt: 'rarely',
-      audience: 'few scenarios justify the cost',
-      summary: 'Adds roughly 30-50% to the base premium. The opportunity cost of the extra premium invested elsewhere almost always exceeds the returned amount.',
-      reference: `${SITE_URL}/education/return-of-premium-rider/`
-    },
-    {
-      name: 'Catastrophic Disability',
-      worthIt: 'rarely',
-      audience: 'niche',
-      summary: 'Adds benefit for severe disabilities (loss of two or more activities of daily living). Coverage is meaningful but catastrophic disabilities are rare; cost-to-expected-value is typically unfavorable.',
-      reference: `${SITE_URL}/education/catastrophic-disability-rider/`
-    },
-    {
-      name: 'Social Insurance Supplement',
-      worthIt: 'rarely for high earners',
-      audience: 'lower-income buyers only',
-      summary: 'Pays if a Social Security disability claim is denied. Most high earners will not qualify for SSDI under the "any occupation" standard, so the trigger rarely fires usefully.',
-      reference: `${SITE_URL}/education/social-insurance-supplement/`
-    }
-  ]
+  carrierMatrix: structured.carrierMatrix,
+  riders: structured.riders
 };
 
 writeFileSync(OUT_PATH, JSON.stringify(knowledge, null, 2) + '\n');
@@ -192,4 +164,4 @@ const specCount = Object.keys(knowledge.sections.specialties).length;
 const eduCount = Object.keys(knowledge.sections.education).length;
 const carrierCount = Object.keys(knowledge.sections.carriers).length;
 const assocCount = Object.keys(knowledge.sections.associations).length;
-console.log(`knowledge.json written: ${specCount} specialties, ${eduCount} education, ${carrierCount} carriers, ${assocCount} associations, ${knowledge.carrierMatrix.length} carriers matrixed, ${knowledge.riders.length} riders`);
+console.log(`knowledge.json written: ${specCount} specialties, ${eduCount} education, ${carrierCount} carriers, ${assocCount} associations, ${knowledge.carrierMatrix.length} carriers matrixed (from CONTENT-TRUTH §13), ${knowledge.riders.length} riders`);

@@ -1,7 +1,7 @@
 import { TOOL_DEFINITIONS, executeTool } from './tools';
 import type { Env } from './env';
 
-// Seaworthy Insurance Agency MCP server (open / zero-touch).
+// Seaworthy Insurance MCP server (open / zero-touch).
 //
 // All tools are callable without authentication so a user can direct their agent
 // to get quotes with no further interaction on their part. The write tool
@@ -14,7 +14,7 @@ import type { Env } from './env';
 
 const PROTOCOL_VERSION = '2025-06-18';
 const SERVER_INFO = {
-  name: 'Seaworthy Insurance Agency MCP',
+  name: 'Seaworthy Insurance MCP',
   version: '0.3.0'
 };
 
@@ -67,7 +67,7 @@ async function handleRpc(
         capabilities: { tools: { listChanged: false }, resources: {}, prompts: {} },
         serverInfo: SERVER_INFO,
         instructions:
-          'Seaworthy Insurance Agency MCP. Tools cover specialty guides, quote comparison, benefit-cap math, rider selection, and a quote_request action that submits a disability insurance quote to the agency on the user\'s behalf. Before calling quote_request, confirm the user has given explicit consent to be contacted. Content is educational, not individual advice.'
+          'Seaworthy Insurance MCP. Tools cover specialty guides, quote comparison, benefit-cap math, rider selection, and a quote_request action that submits a disability insurance quote to the agency on the user\'s behalf. Before calling quote_request, confirm the user has given explicit consent to be contacted. Content is educational, not individual advice.'
       });
     case 'initialized':
     case 'notifications/initialized':
