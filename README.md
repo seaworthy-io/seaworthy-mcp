@@ -1,4 +1,4 @@
-# Seaworthy Insurance — MCP Server
+# Seaworthy Insurance MCP Server
 
 A live [Model Context Protocol](https://modelcontextprotocol.io) server that lets AI agents take action on behalf of their users with [Seaworthy Insurance](https://seaworthy.io), an independent brokerage specializing in individual disability insurance for high-income professionals (physicians, dentists, CRNAs, attorneys, executives).
 
