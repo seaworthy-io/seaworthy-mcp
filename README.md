@@ -1,5 +1,9 @@
 # Seaworthy Insurance MCP Server
 
+[![CI](https://github.com/seaworthy-io/seaworthy-mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/seaworthy-io/seaworthy-mcp/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![MCP Registry](https://img.shields.io/badge/MCP-Registry-5965E0.svg)](https://registry.modelcontextprotocol.io)
+
 A live [Model Context Protocol](https://modelcontextprotocol.io) server that lets AI agents take action on behalf of their users with [Seaworthy Insurance](https://seaworthy.io), an independent brokerage specializing in individual disability insurance for high-income professionals (physicians, dentists, CRNAs, attorneys, executives).
 
 To our knowledge, this is the first disability insurance brokerage to expose an agent-callable quote action over MCP.
@@ -32,6 +36,17 @@ Required: `first_name`, `last_name`, `email`, `phone`, `profession`, `state`, `d
 Optional: `life_insurance_interest`, `notes`, `referral_source`.
 
 The agent must confirm the user has consented to be contacted before calling it. SSN, medical history, and banking details are never collected through this tool.
+
+## Security & privacy
+
+This is a remote, stateless server. Connecting a client runs no code on the user's machine and gives the server no access to the local filesystem.
+
+- **Read tools** return only public, vendor-verified facts.
+- **The one write tool** (`quote_request`) is guarded server-side by input validation, per-IP rate limiting, and duplicate suppression, not by client credentials. That is why the endpoint can be open without exposing the pipeline to abuse.
+- **No sensitive data** (SSN, medical, banking) is ever accepted, and the agent must confirm consent before submitting.
+- **Minimal data flow:** submissions go to Seaworthy's CRM (Salesforce Web-to-Lead) and nowhere else. The server keeps no conversation or query history, and no secrets live in this repository.
+
+Full details and a private disclosure channel are in [SECURITY.md](SECURITY.md).
 
 ## Try it
 
