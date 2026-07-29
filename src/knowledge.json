@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T22:48:06.844Z",
+  "generatedAt": "2026-07-29T17:31:44.451Z",
   "siteUrl": "https://seaworthy.io",
   "sections": {
     "specialties": {
@@ -9,7 +9,7 @@
         "description": "Compare own-occupation disability insurance quotes for CPAs and accountants. Protect your income against cognitive impairment, burnout from tax-season intensity, and mental health conditions. See how carriers differ on mental/nervous limitation clauses.",
         "url": "https://seaworthy.io/specialties/accountants/",
         "publishDate": "2026-03-09",
-        "tldr": "Accountants qualify for favorable 6A occupation class with most top carriers, making disability insurance cost-effective relative to income protected. Own-occupation coverage is critical because accounting demands sustained cognitive precision that neurological or psychological conditions can impair, even when physical capacity remains intact. Specialized guidance makes sure the right contract language for cognitive disability and mental health provisions, which represent your highest disability risk."
+        "tldr": "Accountants commonly qualify for a 6A occupation class, one of the most favorable tiers, making disability insurance cost-effective relative to income protected. Own-occupation coverage is critical because accounting demands sustained cognitive precision that neurological or psychological conditions can impair, even when physical capacity remains intact. The contract language governing cognitive disability and mental health provisions deserves the most scrutiny, because those pathways represent your highest disability risk."
       },
       "anesthesiologists": {
         "slug": "anesthesiologists",
@@ -25,7 +25,7 @@
         "description": "Compare own-occupation disability insurance quotes for licensed architects. Protect your income against progressive vision loss, neurological conditions impairing spatial reasoning, and chronic pain from sustained design work.",
         "url": "https://seaworthy.io/specialties/architects/",
         "publishDate": "2026-03-16",
-        "tldr": "Most licensed architects qualify for favorable 5A or 6A occupation class ratings, keeping disability insurance premiums competitive relative to income protected. Own-occupation coverage is critical because architecture requires cognitive, visual, and creative capacity beyond general office work; visual impairment or neurological conditions can eliminate your ability to practice even if other work remains possible. Specialized guidance makes sure the right contract language and carrier match for your practice structure, whether you're a principal, independent practitioner, or firm employee."
+        "tldr": "Most licensed architects qualify for favorable 5A or 6A occupation class ratings, keeping disability insurance premiums competitive relative to income protected. Own-occupation coverage is critical because architecture requires cognitive, visual, and creative capacity beyond general office work; visual impairment or neurological conditions can eliminate your ability to practice even if other work remains possible. The contract language and carrier match should fit your practice structure, whether you're a principal, independent practitioner, or firm employee."
       },
       "attorneys": {
         "slug": "attorneys",
@@ -33,15 +33,15 @@
         "description": "Compare own-occupation disability insurance for attorneys. A claim is decided by the definition type applied to your real duties, and most attorneys can secure full-period mental health coverage.",
         "url": "https://seaworthy.io/specialties/attorneys/",
         "publishDate": "2026-03-15",
-        "tldr": "For an attorney, the provisions that decide a claim are the own-occupation definition type and your residual coverage, not whether the contract names litigation or transactional work. A claim is measured against the material duties you were actually performing when disability began. Most attorneys are not in the high-risk group that faces a forced 24-month mental and nervous cap, so full-benefit-period mental health coverage is generally available across the carriers we place. Terms are set at underwriting, where about 28% of the policies in our placed book carry an exclusion or rating, so applying while healthy is the real lever."
+        "tldr": "For an attorney, the provisions that decide a claim are the own-occupation definition type and your residual coverage, not whether the contract names litigation or transactional work. A claim is measured against the material duties you were actually performing when disability began. Most attorneys are not in the high-risk group that faces a forced 24-month mental and nervous cap, so full-benefit-period mental health coverage is generally available across the carriers we place. Terms lock at underwriting, where roughly 28 percent of the policies in our 2026 audit carried an exclusion or rating, so applying while healthy is the real lever."
       },
       "business-finance": {
         "slug": "business-finance",
         "title": "Business & Finance Disability Insurance",
-        "description": "Own-occupation disability coverage for executives, business owners, and financial professionals. Complex compensation structures require disciplined underwriting.",
+        "description": "Seaworthy Insurance places disability insurance for executives, business owners, attorneys, accountants, and financial professionals. All five major carriers compared on own-occupation language, occupation class, and how each handles variable and equity compensation.",
         "url": "https://seaworthy.io/specialties/business-finance/",
-        "publishDate": null,
-        "tldr": null
+        "publishDate": "2026-04-01",
+        "tldr": "Seaworthy Insurance places coverage for executives, business owners, attorneys, accountants, and financial professionals across all five major carriers, evaluating own-occupation language, occupation class, how each carrier counts variable and equity pay, and premium."
       },
       "business-owners": {
         "slug": "business-owners",
@@ -62,7 +62,7 @@
       "crnas": {
         "slug": "crnas",
         "title": "CRNA Disability Insurance",
-        "description": "Seaworthy Insurance specializes in CRNA disability insurance. All five top carriers compared, with each carrier's own-occupation definition reviewed for anesthesia providers.",
+        "description": "Seaworthy Insurance specializes in disability insurance for CRNAs and nurse anesthetists. All five top carriers compared, with each carrier's own-occupation definition reviewed for anesthesia providers.",
         "url": "https://seaworthy.io/specialties/crnas/",
         "publishDate": "2026-04-01",
         "tldr": "Seaworthy Insurance places CRNA coverage across all five major carriers, with every quote evaluated against occupation class, own-occupation contract language, rider structure, and premium."
@@ -75,29 +75,37 @@
         "publishDate": "2026-06-06",
         "tldr": "Data scientists, data engineers, and ML engineers are at the center of the AI hiring surge, where pay is high and climbing fast. The field is newer, so many of these high earners are making a coverage decision for the first time, and two things deserve the most attention: a true own-occupation definition that protects advanced quantitative reasoning and statistical or machine-learning modeling rather than letting a carrier collapse it into generic computer work, and a benefit sized to AI-era total compensation. These roles also sit in the top 6A occupation class, which means strong contract terms and competitive pricing. We run all five major carriers on every case."
       },
-      "dental": {
-        "slug": "dental",
-        "title": "Dental Professional Disability Insurance",
-        "description": "Own-occupation disability coverage for dentists and dental specialists. Fine motor demands and repetitive procedures require coverage that reflects your specific clinical role.",
-        "url": "https://seaworthy.io/specialties/dental/",
-        "publishDate": null,
-        "tldr": null
+      "dental-hygienists": {
+        "slug": "dental-hygienists",
+        "title": "Disability Insurance for Dental Hygienists | Own-Occupation Coverage",
+        "description": "Disability insurance for dental hygienists, including how carriers classify hygienists, why the market is narrower than it is for dentists, the modified own-occupation contract available to age 65, and the $8,000 monthly benefit ceiling.",
+        "url": "https://seaworthy.io/specialties/dental-hygienists/",
+        "publishDate": "2026-07-27",
+        "tldr": "Dental hygienists can secure individual disability coverage, and the terms differ from a dentist's in ways worth understanding before shopping. The practical placement is a modified own-occupation contract to age 65 with a monthly benefit capped at $8,000 and a 24-month mental health benefit."
       },
       "dentist-anesthesiologists": {
         "slug": "dentist-anesthesiologists",
         "title": "Dentist Anesthesiologist Disability Insurance | Own-Occupation Coverage",
-        "description": "Compare disability insurance for dentist anesthesiologists. Protect against hand tremor, cognitive impairment affecting sedation management, and carrier misclassification of your specialty. See which carriers properly underwrite dental anesthesia roles.",
+        "description": "Compare disability insurance for dentist anesthesiologists. An ADA-recognized dental specialty underwritten as a dentist, classed 3D at The Standard, with specialty deeming and the anesthesia-group mental and nervous limitation to plan around.",
         "url": "https://seaworthy.io/specialties/dentist-anesthesiologists/",
         "publishDate": "2026-03-08",
-        "tldr": "Dentist anesthesiologists are among the most underserved dental specialties in disability insurance underwriting. Carriers often misclassify you as either a general dentist or an anesthesiologist, missing the distinctive occupational structure of dental anesthesia: you combine anesthetic delivery with airway management in a dental setting, manage pediatric and special-needs patients under sedation, and carry malpractice exposure disproportionate to other dental specialties. Your policy must explicitly define dental anesthesia as the occupational base, not subordinate to either general dentistry or physician anesthesiology."
+        "tldr": "Dentist anesthesiologists are an ADA-recognized dental specialty and are underwritten as dentists, classed 3D at The Standard, which qualifies for its Own Occupation Rider, with specialty deeming available so a claim is measured against dental anesthesia rather than dentistry broadly. The one provision that differs from a general dentist's is the mental and nervous limitation. Because the work combines dentistry and anesthesia, both of which sit in the carriers' high-risk mental and nervous group, the 24-month limitation is typically required rather than optional. The priorities at application are a true own-occupation definition for the sedation and airway work, a residual rider, and applying before any health history accumulates."
       },
       "dentists": {
         "slug": "dentists",
-        "title": "Disability Insurance for Dentists | Own-Occupation Coverage",
-        "description": "Compare own-occupation disability insurance quotes for dentists. Protect against hand injury, carpal tunnel, and musculoskeletal strain from clinical positioning. See how carriers differ on ergonomic injury coverage and practice overhead protection.",
+        "title": "Dentist Disability Insurance",
+        "description": "Seaworthy Insurance specializes in dentist disability insurance. All five major carriers compared, with each carrier's own-occupation definition reviewed for clinical dental work and dental specialties.",
         "url": "https://seaworthy.io/specialties/dentists/",
-        "publishDate": "2026-03-09",
-        "tldr": "Dentists qualify for favorable 5A or 6A occupational classes, making premiums competitive relative to income protected. Own-occupation coverage is critical because clinical dentistry depends on fine motor control, hand stability, and absence of tremor; any hand injury or musculoskeletal condition affecting your ability to perform procedures can terminate clinical practice. Specialized guidance on hand-injury provisions, ergonomic-strain language, and practice overhead coverage makes sure your contract matches the actual demands and risks of dental practice."
+        "publishDate": "2026-04-01",
+        "tldr": "Seaworthy Insurance places dentist coverage across all five major carriers, with every quote evaluated against occupation class, own-occupation contract language including ADA-specialty deeming, rider structure, and premium."
+      },
+      "emergency-medicine": {
+        "slug": "emergency-medicine",
+        "title": "Emergency Medicine Disability Insurance | Own-Occupation Coverage",
+        "description": "Disability insurance for emergency physicians: EM sits in the higher-risk class tier at every major carrier, the 24-month mental health limitation is mandatory, and Principal caps EM issue amounts at $20,000 a month. How to structure coverage around those constraints.",
+        "url": "https://seaworthy.io/specialties/emergency-medicine/",
+        "publishDate": "2026-07-20",
+        "tldr": "Every major carrier places emergency medicine in its higher-risk physician tier, per the mid-2026 producer guides, and the specialty is on the nearly identical mandatory lists that cap mental and nervous claims at 24 months, so the full-period election available to most physicians is generally off the table for EM. Principal also caps its EM tier at a $20,000 monthly issue limit where its higher physician classes reach $30,000. Structure and timing carry the weight here: a true own-occupation definition, a residual rider, and an application filed before shift work leaves a medical history."
       },
       "endodontists": {
         "slug": "endodontists",
@@ -105,7 +113,7 @@
         "description": "Compare own-occupation disability insurance for endodontists. Protect against cervical disc disease from microscope positioning, carpal tunnel from file manipulation, and visual strain. See how carriers cover gradual loss of microsurgical precision.",
         "url": "https://seaworthy.io/specialties/endodontists/",
         "publishDate": "2026-03-18",
-        "tldr": "Endodontists qualify for favorable 5A or 6A occupation class ratings, but disability risk is concentrated in hand function, cervical spine health, and visual acuity; microsurgical precision within fractions of a millimeter is non-negotiable. Musculoskeletal conditions (cervical disc disease, carpal tunnel, de Quervain tendinopathy) are the leading disability pathways. Own-occupation definition must specifically protect endodontic practice, not reduce you to general dentistry income, and residual riders are critical given the likelihood of gradual decline rather than sudden total disability."
+        "tldr": "Endodontists are underwritten as dentists, classed 3D at The Standard, which qualifies for its Own Occupation Rider, with disability risk concentrated in hand function, cervical spine health, and visual acuity, where microsurgical precision within fractions of a millimeter is non-negotiable. Musculoskeletal conditions (cervical disc disease, carpal tunnel, de Quervain tendinopathy) are the leading disability pathways. The own-occupation definition must specifically protect endodontic practice, not reduce you to general-dentistry income, and a residual rider is critical given the likelihood of gradual decline rather than sudden total disability."
       },
       "engineers": {
         "slug": "engineers",
@@ -115,13 +123,29 @@
         "publishDate": "2026-03-16",
         "tldr": "Engineers typically qualify for 5A or 6A occupational class ratings in office-based roles, with lower classifications for field-based specialties. Disability risk is centered on cognitive function; neurological conditions, traumatic brain injury, stroke, or cognitive effects of medical treatment can end engineering careers by impairing mathematical reasoning and systems-thinking capacity. Own-occupation coverage is essential because 'any occupation' definitions allow carriers to deny claims based on generic computer work, ignoring the difference between data entry and professional engineering analysis."
       },
+      "family-medicine": {
+        "slug": "family-medicine",
+        "title": "Family Medicine Disability Insurance | Own-Occupation Coverage",
+        "description": "Disability insurance for family physicians: near-best occupation classes at every major carrier, full-period mental health elections, part-time and locum underwriting paths, and business overhead expense coverage for practice owners.",
+        "url": "https://seaworthy.io/specialties/family-medicine/",
+        "publishDate": "2026-07-20",
+        "tldr": "Family medicine is one of the least expensive physician specialties to insure. The specialty sits in each major carrier's best or near-best physician class, and family physicians can elect full-benefit-period mental health coverage. The real coverage questions are structural: sizing benefits against a leaner income ceiling, insuring part-time and locum arrangements at carriers that accept them, and adding business overhead expense coverage when the physician owns the practice."
+      },
+      "general-dentists": {
+        "slug": "general-dentists",
+        "title": "General Dentist Disability Insurance | Own-Occupation Coverage",
+        "description": "Own-occupation disability insurance for general dentists: how carriers class general practice, why the 24-month mental and nervous limitation applies to general dentistry across the major carriers, what production-paid associates and practice owners each need, and when to apply.",
+        "url": "https://seaworthy.io/specialties/general-dentists/",
+        "publishDate": "2026-06-12",
+        "tldr": "General dentists are the largest group of dentists Seaworthy covers, and their protection turns on the same contract details a specialist's does. A true own-occupation definition keeps benefits paying when a disability ends clinical dentistry, even if teaching, consulting, or practice administration remains possible. Carriers commonly class general dentists at 3D, and MassMutual upgrades a dentist from 3D to 4D after an AEGD or GPR residency. One provision deserves extra attention: general dentistry sits in the high-risk mental and nervous group at several major carriers, where the 24-month limitation is required rather than optional. Associates paid on production should size the benefit to total documented earnings, and practice owners usually pair personal coverage with business overhead expense."
+      },
       "geriatricians": {
         "slug": "geriatricians",
         "title": "Geriatrician Disability Insurance | Own-Occupation Coverage",
         "description": "Compare disability insurance quotes for geriatricians. Protect against compassion fatigue, infectious disease exposure in long-term care settings, and musculoskeletal strain from patient handling. See which carriers offer extended mental health benefits.",
         "url": "https://seaworthy.io/specialties/geriatricians/",
         "publishDate": "2026-03-14",
-        "tldr": "Geriatricians manage the most medically complex patients in medicine while bearing the psychological weight of end-of-life care and compassion fatigue. Mental and nervous limitation clauses capping psychiatric benefits at 24 months are inadequate for a specialty where burnout is endemic rather than exceptional. Disability risk spans cognitive (multi-system disease management), physical (patient handling), and psychological (moral distress) domains. Own-occupation coverage and extended mental health provisions are essential; carrier selection is critical for this specialty."
+        "tldr": "Geriatricians manage the most medically complex patients in medicine while bearing the psychological weight of end-of-life care and compassion fatigue. A 24-month cap on mental and nervous claims would be a poor fit for a specialty where burnout is endemic rather than exceptional, and geriatricians do not have to accept one: the specialty is not in the high-risk group forced into the cap, so full-benefit-period mental and nervous coverage is available across the major carriers. Disability risk spans cognitive (multi-system disease management), physical (patient handling), and psychological (moral distress) domains; own-occupation coverage with the full-period mental health election is the structure that fits."
       },
       "infectious-disease": {
         "slug": "infectious-disease",
@@ -129,15 +153,15 @@
         "description": "Compare own-occupation disability insurance for infectious disease physicians. Protect your income against bloodborne pathogen exposure, needle stick injuries, and burnout from managing critically ill patients. See how carriers handle occupational infection risk.",
         "url": "https://seaworthy.io/specialties/infectious-disease/",
         "publishDate": "2026-03-17",
-        "tldr": "Infectious disease specialists qualify for favorable occupational classifications, but own-occupation coverage is essential because your income depends entirely on cognitive diagnostic capacity. Pathogen exposure, burnout from managing critically ill patients, and occupational psychological stress create disability pathways that generic policies fail to address adequately."
+        "tldr": "Infectious disease specialists qualify for favorable occupational classifications, but own-occupation coverage is essential because your income depends entirely on cognitive diagnostic capacity. Pathogen exposure, burnout from managing critically ill patients, and occupational psychological stress are the specialty's real disability pathways, and ID is not in the high-risk group forced into the 24-month mental and nervous cap, so full-benefit-period coverage is available and worth electing."
       },
-      "legal": {
-        "slug": "legal",
-        "title": "Attorney & Legal Professional Disability Insurance",
-        "description": "Own-occupation disability coverage for attorneys, judges, and legal professionals. Cognitive disability risk and complex income structures require specialized underwriting.",
-        "url": "https://seaworthy.io/specialties/legal/",
-        "publishDate": null,
-        "tldr": null
+      "internal-medicine": {
+        "slug": "internal-medicine",
+        "title": "Internal Medicine Disability Insurance | Own-Occupation Coverage",
+        "description": "Disability insurance for internists: a top-tier occupation class at every major carrier, full-benefit-period mental health elections, and the pre-fellowship timing play that locks internal-medicine pricing for a subspecialty career.",
+        "url": "https://seaworthy.io/specialties/internal-medicine/",
+        "publishDate": "2026-07-20",
+        "tldr": "Internal medicine occupies a favorable corner of the disability market: the specialty sits in each major carrier's best or near-best physician class, which makes coverage relatively inexpensive per dollar of benefit, and internists are not in the high-risk group forced into a 24-month mental health cap, so full-benefit-period coverage is available. The class advantage is also a timing argument, since an internist headed toward a procedural fellowship can lock internal-medicine pricing on a policy issued before the subspecialty declares itself. Internal medicine is among the most common physician specialties in Seaworthy's placed book."
       },
       "nephrologists": {
         "slug": "nephrologists",
@@ -145,7 +169,7 @@
         "description": "Compare own-occupation disability insurance for nephrologists. Coverage built for burnout, dialysis exposure, and procedural risk.",
         "url": "https://seaworthy.io/specialties/nephrologists/",
         "publishDate": "2026-03-12",
-        "tldr": "Nephrologists need own-occupation coverage that protects against burnout and psychiatric disability from managing chronically ill patients with high mortality rates. Mental health provisions are critical; policies capping psychological disability at 24 months are inadequate for a specialty where burnout is a documented occupational pathway. Infectious disease exposure in dialysis environments adds procedural disability risk."
+        "tldr": "Nephrologists need own-occupation coverage that protects against burnout and psychiatric disability from managing chronically ill patients with high mortality rates. Mental health provisions are critical, and nephrology is not in the high-risk group forced into the 24-month mental and nervous cap, so full-benefit-period coverage is available across the major carriers and worth electing in a specialty where burnout is a documented occupational pathway. Infectious disease exposure in dialysis environments adds procedural disability risk."
       },
       "obgyn": {
         "slug": "obgyn",
@@ -153,7 +177,15 @@
         "description": "Compare own-occupation disability insurance for OB/GYNs. Protect your income against back injury from delivery positioning, burnout from unpredictable call, and malpractice-related psychological disability. See how carriers treat obstetric vs. gynecologic practice mix.",
         "url": "https://seaworthy.io/specialties/obgyn/",
         "publishDate": "2026-03-20",
-        "tldr": "OB/GYNs require own-occupation coverage that protects the full hybrid practice, not obstetrics or gynecology separately. Unpredictable on-call scheduling creates cumulative burnout and sleep deprivation that standard definitions underestimate. Back injuries from delivery positioning and cesarean work are the most common disability trigger; policies must cover occupational back and neck injury without arbitrary benefit period limits."
+        "tldr": "OB/GYNs require own-occupation coverage that protects the full hybrid practice, obstetric care and operative gynecology together. Unpredictable on-call scheduling drives cumulative burnout and sleep deprivation, and OB/GYN is not in the high-risk group forced into the 24-month mental and nervous cap, so full-benefit-period mental health coverage is available and worth electing. Back injuries from delivery positioning and cesarean work are the most common physical trigger; an individual policy bought while the record is clean covers occupational back and neck injury for the full benefit period."
+      },
+      "ophthalmologists": {
+        "slug": "ophthalmologists",
+        "title": "Ophthalmologist Disability Insurance | Own-Occupation Coverage",
+        "description": "Disability insurance for ophthalmologists. Carriers disagree on how to class this microsurgical specialty more than almost any other, from 3P at MassMutual to 5M at Principal and Ameritas, and an ophthalmologist's income depends on their own vision and fine motor control. Guardian's surgical-income enhancement and a true own-occupation definition are the decisions that matter.",
+        "url": "https://seaworthy.io/specialties/ophthalmologists/",
+        "publishDate": "2026-07-22",
+        "tldr": "Ophthalmology is a microsurgical specialty whose income rests on two things the surgeon cannot replace, their own eyesight and their fine motor control, so a tremor or a decline in vision is career-ending even when the ophthalmologist stays healthy otherwise. It is also among the specialties carriers class most inconsistently, running from 3P at MassMutual, which groups it with surgeons, to 5M at Principal and Ameritas and 4S at The Standard, which means the same ophthalmologist can be priced across a wide range. The decisions that protect the income are Guardian's surgical-income enhancement, which deems an ophthalmologist disabled if they can no longer operate, and a true own-occupation definition that measures the claim against ophthalmology rather than medicine broadly."
       },
       "optometrists": {
         "slug": "optometrists",
@@ -165,19 +197,35 @@
       },
       "oral-surgeons": {
         "slug": "oral-surgeons",
-        "title": "Disability Insurance for Oral Surgeons | Own-Occupation Coverage",
-        "description": "Compare own-occupation disability insurance for oral surgeons. Protect your surgical income against cervical spine strain, hand injury from forceful extractions, and needle stick exposure. See how carriers classify OMS versus general dentistry.",
+        "title": "Disability Insurance for Oral and Maxillofacial Surgeons | Own-Occupation Coverage",
+        "description": "Compare own-occupation disability insurance for oral and maxillofacial surgeons. Protect your surgical income against cervical spine strain, hand injury from forceful extractions, and needle stick exposure. See how carriers classify OMS versus general dentistry.",
         "url": "https://seaworthy.io/specialties/oral-surgeons/",
         "publishDate": "2026-03-18",
-        "tldr": "Oral surgeons require own-occupation coverage that reflects the surgical scope of their practice, not general dentistry, and protects the substantial income difference. Cervical strain from confined operative field positioning and hand injury from forceful surgical movements are predictable occupational consequences; policies must cover these without imposing arbitrary benefit limits."
+        "tldr": "Oral and maxillofacial surgeons require own-occupation coverage that reflects the surgical scope of their practice, not general dentistry, and protects the substantial income difference. Cervical strain from confined operative field positioning and hand injury from forceful surgical movements are predictable occupational consequences; policies must cover these without imposing arbitrary benefit limits."
       },
       "orthodontists": {
         "slug": "orthodontists",
         "title": "Orthodontist Disability Insurance | Own-Occupation Coverage",
-        "description": "Compare own-occupation disability insurance for orthodontists. Protect your income against carpal tunnel from high-volume wire adjustments, cervical disc disease, and eye strain from magnification. Get residual disability coverage for reduced patient throughput.",
+        "description": "Compare own-occupation disability insurance for orthodontists. Protect your income against carpal tunnel from high-volume wire adjustments, cervical disc disease, and eye strain from magnification. Get residual coverage and business overhead expense for practice owners.",
         "url": "https://seaworthy.io/specialties/orthodontists/",
         "publishDate": "2026-03-23",
-        "tldr": "Orthodontists face significant cumulative musculoskeletal risk from high-volume repetitive practice despite favorable occupational classifications. Own-occupation coverage with residual disability riders is essential because partial disability from carpal tunnel, cervical disc disease, or hand conditions directly impacts income from reduced patient throughput, not elimination of the profession entirely."
+        "tldr": "Orthodontists face significant cumulative musculoskeletal risk from high-volume repetitive practice despite favorable occupational classifications. Own-occupation coverage with a residual rider is essential because partial disability from carpal tunnel, cervical disc disease, or hand conditions reduces income through lower patient throughput rather than ending the profession outright. Most orthodontists own their practices, so business overhead expense coverage, which protects the practice's fixed costs, usually belongs alongside the personal policy."
+      },
+      "orthopedic-surgeons": {
+        "slug": "orthopedic-surgeons",
+        "title": "Orthopedic Surgeon Disability Insurance | Own-Occupation Coverage",
+        "description": "Disability insurance for orthopedic surgeons, a specialty with one of the widest occupation-class spreads in medicine (about two tiers, Ameritas 5M to Guardian and Principal 3M) and the one surgical specialty Guardian excludes from its surgeon discount. A physically punishing practice where the surgeon's own body is the risk.",
+        "url": "https://seaworthy.io/specialties/orthopedic-surgeons/",
+        "publishDate": "2026-07-22",
+        "tldr": "Orthopedic surgery has one of the widest occupation-class spreads in medicine, roughly two full tiers from 5M at Ameritas down to 3M at Guardian and Principal, so the same surgeon can be priced dramatically differently across the five carriers, and it is the one surgical specialty Guardian carves out of its surgeon discount. The risk is physical, since orthopedics is punishing and the surgeon's own back, hands, and joints are what a career-ending injury usually strikes. The decisions that protect the income are a true own-occupation definition, Guardian's surgical-income enhancement for surgeons earning most of their income from operating, and a residual rider for the more common partial claim."
+      },
+      "otolaryngologists": {
+        "slug": "otolaryngologists",
+        "title": "ENT & Otolaryngologist Disability Insurance | Own-Occupation Coverage",
+        "description": "Own-occupation disability insurance for otolaryngologists (ENT). Carriers class ENT mid-tier, from 4M up to Ameritas at 5M, so comparing all five is how a surgical income gets protected.",
+        "url": "https://seaworthy.io/specialties/otolaryngologists/",
+        "publishDate": "2026-07-22",
+        "tldr": "Otolaryngology, or ENT, is a medical-surgical hybrid, part office practice and part head-and-neck microsurgery, and that mix lands it in the middle of the physician range, from 4M at most carriers up to Ameritas at 5M as the favorable outlier. The career-critical function is fine motor control, because ear and endoscopic surgery run at fine tolerances, so a hand tremor or a neurological condition can end operative practice while leaving office ENT open. The decisions that protect the income are a true own-occupation definition and, for the surgery-heavy practitioner, Guardian's surgical-income enhancement."
       },
       "pediatric-dentists": {
         "slug": "pediatric-dentists",
@@ -185,7 +233,15 @@
         "description": "Compare own-occupation disability insurance for pediatric dentists. Protect your income against extreme ergonomic strain from small-patient positioning, carpal tunnel from confined operative fields, and physical injury from behavior management. See how carriers classify pediatric dental risk.",
         "url": "https://seaworthy.io/specialties/pediatric-dentists/",
         "publishDate": "2026-03-19",
-        "tldr": "Pediatric dentists face extreme ergonomic strain from working with small patients in compromised positions for extended periods, combined with physical demands of behavior management and sustained fine motor precision. Carpal tunnel, back injury, neck strain, and hand loss of dexterity are occupational inevitabilities. Own-occupation coverage secures full benefits when musculoskeletal disability prevents the precision dentistry work that generates your $280K+ income."
+        "tldr": "Pediatric dentists face extreme ergonomic strain from working with small patients in compromised positions for extended periods, combined with physical demands of behavior management and sustained fine motor precision. Carpal tunnel, back injury, neck strain, and loss of hand dexterity are common occupational risks. Own-occupation coverage secures full benefits when musculoskeletal disability prevents the precision dentistry work your specialty income depends on."
+      },
+      "pediatricians": {
+        "slug": "pediatricians",
+        "title": "Pediatrician Disability Insurance | Own-Occupation Coverage",
+        "description": "Disability insurance for pediatricians, Principal's only top-6M physician specialty and priced at or near the best tier at every major carrier, with full mental-health coverage and the infectious and physical exposure of pediatric practice.",
+        "url": "https://seaworthy.io/specialties/pediatricians/",
+        "publishDate": "2026-07-22",
+        "tldr": "Pediatrics is the class darling of the physician disability market. It is the only specialty in Principal's top 6M medical class and sits at or near the best tier at every major carrier, which makes coverage inexpensive per dollar of benefit, and The Standard's discount for select specialties includes it. That favorable pricing protects a leaner income, since pediatricians earn less than most specialties they refer to, so the leaner ceiling changes how the benefit is sized without changing the reason to carry it. The specialty's real risks are the infectious exposure and physical demands of examining children, and full-benefit-period mental and nervous coverage is available rather than the 24-month cap."
       },
       "periodontists": {
         "slug": "periodontists",
@@ -193,7 +249,7 @@
         "description": "Compare own-occupation disability insurance for periodontists. Protect your surgical income against carpal tunnel from implant placement, cervical disc disease from sustained positioning, and hand tremor affecting microsurgical precision. Get residual coverage for reduced caseloads.",
         "url": "https://seaworthy.io/specialties/periodontists/",
         "publishDate": "2026-03-18",
-        "tldr": "Periodontists perform high-precision surgical techniques requiring sustained hand dexterity, fine motor control, and extreme ergonomic positioning. Carpal tunnel, hand tremor, back and neck injury from prolonged positioning, and repetitive strain affecting surgical precision are career-ending injuries. Own-occupation coverage secures full benefits when hand loss or musculoskeletal disability prevents the surgical periodontology that generates your $300K+ income."
+        "tldr": "Periodontists perform high-precision surgical techniques requiring sustained hand dexterity, fine motor control, and extreme ergonomic positioning. Carpal tunnel, hand tremor, back and neck injury from prolonged positioning, and repetitive strain affecting surgical precision are career-ending injuries. Own-occupation coverage secures full benefits when hand loss or musculoskeletal disability prevents the surgical periodontal work your specialty income depends on."
       },
       "pharmacists": {
         "slug": "pharmacists",
@@ -213,11 +269,11 @@
       },
       "physicians": {
         "slug": "physicians",
-        "title": "Physician & Surgeon Disability Insurance",
-        "description": "Own-occupation disability coverage for 50+ physician and surgeon specialties. Each specialty faces distinct occupational risk requiring precision underwriting.",
+        "title": "Physician Disability Insurance",
+        "description": "Seaworthy Insurance specializes in physician disability insurance. All five major carriers compared, with each carrier's own-occupation definition and specialty recognition reviewed for physicians and surgeons.",
         "url": "https://seaworthy.io/specialties/physicians/",
-        "publishDate": null,
-        "tldr": null
+        "publishDate": "2026-04-01",
+        "tldr": "Seaworthy Insurance places physician coverage across all five major carriers, with every quote evaluated against occupation class, own-occupation contract language and specialty recognition, rider structure, and premium."
       },
       "product-managers": {
         "slug": "product-managers",
@@ -230,10 +286,10 @@
       "professionals": {
         "slug": "professionals",
         "title": "Professional Disability Insurance",
-        "description": "Own-occupation disability coverage for allied health professionals, tech workers, engineers, pilots, and other high-income professionals.",
+        "description": "Seaworthy Insurance places disability insurance for licensed and credentialed professionals. All five major carriers compared on own-occupation language and occupation class, which varies widely across this group.",
         "url": "https://seaworthy.io/specialties/professionals/",
-        "publishDate": null,
-        "tldr": null
+        "publishDate": "2026-04-01",
+        "tldr": "Seaworthy Insurance places coverage for licensed and credentialed professionals across all five major carriers, evaluating own-occupation language, the occupation class each carrier assigns, and premium. Occupation class varies widely across this group, which is why a current quote across carriers is the only reliable read."
       },
       "prosthodontists": {
         "slug": "prosthodontists",
@@ -241,7 +297,23 @@
         "description": "Compare own-occupation disability insurance for prosthodontists. Protect your income against carpal tunnel from precision crown work, cervical disc disease from extended procedures, and hand tremor that compromises margin accuracy in implant restorations.",
         "url": "https://seaworthy.io/specialties/prosthodontists/",
         "publishDate": "2026-03-20",
-        "tldr": "Prosthodontists require exceptional fine motor precision for complex prosthodontic procedures including implant prosthetics, precision removable prosthetics, and complex laboratory coordination. Carpal tunnel, hand tremor, arthritis affecting fine motor dexterity, and back strain from sustained positioning is career-ending. Own-occupation coverage secures full benefits when hand or musculoskeletal disability prevents the specialized prosthodontic work generating your $280K+ income."
+        "tldr": "Prosthodontists require exceptional fine motor precision for complex prosthodontic procedures including implant prosthetics, precision removable prosthetics, and complex laboratory coordination. Carpal tunnel, hand tremor, arthritis affecting fine motor dexterity, and back strain from sustained positioning is career-ending. Own-occupation coverage secures full benefits when hand or musculoskeletal disability prevents the specialized prosthodontic work your specialty income depends on."
+      },
+      "psychiatrists": {
+        "slug": "psychiatrists",
+        "title": "Psychiatrist Disability Insurance | Own-Occupation Coverage",
+        "description": "Disability insurance for psychiatrists, the specialty where full-benefit-period mental and nervous coverage matters most and psychiatrists can hold it rather than the 24-month cap. Ameritas classes psychiatry a full tier above its peers at 5M, and true own-occupation protects your practice even though an MD can work elsewhere.",
+        "url": "https://seaworthy.io/specialties/psychiatrists/",
+        "publishDate": "2026-07-22",
+        "tldr": "Psychiatry is the specialty where the mental and nervous election matters most, because the category that most often ends a psychiatrist's career is the same one their patients carry, and psychiatrists are not in the group forced into the 24-month cap, so full-benefit-period coverage is available. The other two decisions that move the outcome are carrier class, where Ameritas is the standout at 5M against 4M or 4P everywhere else, and the definition of disability, since an MD who can no longer practice psychiatry can often still do administrative or research work, and only a true own-occupation contract keeps paying through that."
+      },
+      "radiologists": {
+        "slug": "radiologists",
+        "title": "Radiologist Disability Insurance | Own-Occupation Coverage",
+        "description": "Disability insurance for radiologists. Diagnostic radiology classes well while interventional radiology classes lower, and the split drives your premium. Radiology earns preferred-occupation discounts at both Guardian and The Standard, and because a radiologist's income rides on reading images, vision and cognition are the career-ending risks a true own-occupation contract must cover.",
+        "url": "https://seaworthy.io/specialties/radiologists/",
+        "publishDate": "2026-07-22",
+        "tldr": "Radiology prices like two specialties, since diagnostic radiology classes as a favorable non-procedural specialty while interventional classes lower for its procedural and radiation exposure, and which one you are can move the premium a full tier. It is also one of the few specialties that earns a preferred-occupation discount at two carriers, Guardian and The Standard, which makes it inexpensive to insure per dollar of benefit. Because a radiologist's whole income rides on reading images, a vision or cognitive condition is the career-ending risk, so a true own-occupation definition and correct benefit sizing are the decisions that matter."
       },
       "residents": {
         "slug": "residents",
@@ -249,7 +321,7 @@
         "description": "Why residents and fellows should lock in individual disability coverage during training: clean-record underwriting, a Future Increase Option, resident discounts, and the gaps in GME group plans.",
         "url": "https://seaworthy.io/specialties/residents/",
         "publishDate": "2026-06-08",
-        "tldr": "Training is the right time to put an individual disability policy in place, but not for the reason most marketing claims. The durable advantages are health and age (you are rated on a clean record before income rises), a Future Increase Option that locks insurability before any health or exclusion event, and portability the GME group plan does not give you. Real resident discounts exist (MassMutual's 20% medical-resident and 10% dental-resident programs, plus general AMA and institutional programs), but the bigger lever is applying before any condition lands on your chart."
+        "tldr": "Training is the right time to put an individual disability policy in place, but not for the reason most marketing claims. The durable advantages are health and age (you are rated on a clean record before income rises), a Future Increase Option that locks insurability before any health or exclusion event, and portability the GME group plan does not give you. Real resident discounts exist (carrier programs commonly reaching 20% for medical residents and 10% for dental residents, plus general AMA and institutional programs), but the bigger lever is applying before any condition lands on your chart."
       },
       "software-engineers": {
         "slug": "software-engineers",
@@ -299,6 +371,54 @@
         "publishDate": "2026-04-02",
         "tldr": "The AANA Member Advantage plan is a member-paid group disability plan from New York Life. Premiums are age-banded and rise as you age, where an individual non-cancelable policy locks the rate to 65. It caps benefits at $12,000 a month (and at 70% of income, under a $20,000 aggregate), pays residual only after a prior period of total disability, limits mental/nervous and substance claims to 12 months, and reduces income earned in another occupation by 50%. Coverage is tied to AANA membership and ends by age 70. For a high-earning CRNA, an individual true own-occupation policy carries a higher benefit, residual on income loss alone, a longer mental/nervous benefit, and a premium fixed for the life of the contract."
       },
+      "business-finance-compensation": {
+        "slug": "business-finance-compensation",
+        "title": "Disability Insurance for Variable, Equity, and Partnership Compensation",
+        "description": "How disability carriers size a benefit to total earned income for business and finance professionals paid in bonus, commission, partnership draws, K-1 income, and equity. What counts (base, bonus, commission, K-1 earned income, vested RSUs as W-2 wages when documented and recurring), what does not (unvested grants, options, ESPP discount, investment income), and how it is documented.",
+        "url": "https://seaworthy.io/specialties/business-finance-compensation/",
+        "publishDate": "2026-04-01",
+        "tldr": "Disability carriers size a benefit to your earned income, so for a business or finance professional the goal is a benefit built on total earned compensation rather than base salary. Base, bonus, and commission or on-target earnings are counted directly, with bonus and commission usually averaged over about two years. Partnership draws and K-1 earned income count for partners and owners. Vested RSUs are reported as W-2 wages, so that income generally counts when you can document a consistent vesting history. What does not count is contingent or unearned: unvested RSUs, unexercised stock options, the ESPP discount, and investment income such as dividends and capital gains. Documentation is about two years of tax returns plus K-1s, partnership statements, and vesting records. Group LTD almost always figures on base alone, which is why an individual policy usually carries the weight of protecting variable pay."
+      },
+      "business-finance-group-vs-individual": {
+        "slug": "business-finance-group-vs-individual",
+        "title": "Group vs. Individual Disability Insurance for Business and Finance Professionals",
+        "description": "Why employer group LTD underinsures executives, finance professionals, attorneys, and business owners: it figures on base salary only, caps the monthly benefit at $10,000 to $15,000, pays a taxable benefit when the employer funds it, switches to any-occupation after about 24 months, and ends when you leave. How an individual own-occupation policy fills the gap for bonus-, commission-, and partnership-weighted pay.",
+        "url": "https://seaworthy.io/specialties/business-finance-group-vs-individual/",
+        "publishDate": "2026-04-01",
+        "tldr": "Employer group long-term disability is the default coverage most business and finance professionals already have, and its structure underinsures them. It figures the benefit on base salary alone, so bonus, commission, partnership draws, K-1 earned income, and deferred compensation sit outside it. It commonly caps the monthly benefit at $10,000 to $15,000, pays a taxable benefit when the employer funds the premium, applies an own-occupation test that usually lasts about 24 months before switching to a stricter any-occupation standard, and ends the day you leave. Because pay in these fields is weighted toward variable and ownership income, a base-only group benefit protects a fraction of total earnings. An individual own-occupation policy is portable, pays its stated benefit regardless of other coverage, and can be sized to total earned income. Most professionals keep both, with the individual policy carrying the core weight."
+      },
+      "business-finance-own-occupation": {
+        "slug": "business-finance-own-occupation",
+        "title": "Own-Occupation Disability Insurance for Business and Finance Professionals",
+        "description": "True own-occupation is the provision that decides whether a disabled executive, business owner, attorney, financial professional, consultant, or accountant keeps their benefit. The 'you could still do some office work' trap, what a true own-occ definition protects for a high-skill role, and how the five major carriers handle these professions.",
+        "url": "https://seaworthy.io/specialties/business-finance-own-occupation/",
+        "publishDate": "2026-04-01",
+        "tldr": "For an executive, business owner, attorney, financial professional, consultant, or accountant, the own-occupation definition decides whether a claim pays. A true own-occupation contract pays if you cannot perform the material and substantial duties of your own occupation, even if you go on to work and earn in another field. A weaker any-occupation or modified definition lets a carrier argue that a disabled fund manager or executive could still do some general office work, and cut the benefit on that basis. What decides a claim is the definition type you bought plus the duties of the occupation you were actually performing when disability begins. Most office-based business and finance roles qualify for class 6A, one of the most favorable occupation classes, and all five major carriers write true own-occupation coverage for these professions."
+      },
+      "business-finance-questions-before-buying": {
+        "slug": "business-finance-questions-before-buying",
+        "title": "Questions Executives, Owners, and Attorneys Should Ask Before Buying Disability Insurance",
+        "description": "Before buying disability insurance as an executive, business owner, attorney, or financial professional, confirm true own-occupation for your actual role, a benefit sized to total earned income rather than base salary, business overhead expense or buy-sell coverage if you own the firm, a residual rider, a future-increase option, and a noncancelable contract.",
+        "url": "https://seaworthy.io/specialties/business-finance-questions-before-buying/",
+        "publishDate": "2026-04-01",
+        "tldr": "Before a business or finance professional buys disability insurance, a short list of provisions decides whether the policy fits. Is the definition true own-occupation for your actual role, so a litigator is protected as a litigator and a fund manager as a fund manager, not pushed into any office job? The Standard deems trial attorney a specialty under its Own Occupation Rider, which helps litigators. Is the benefit sized to your total earned income, including bonus, commission, partnership draws and K-1 earnings, deferred compensation, and vested equity, rather than base salary alone? If you own the business, do you also need Business Overhead Expense, buy-sell, or key-person coverage on top of personal income protection? Is a residual rider included for partial losses, and a future-increase option so coverage grows with income? Are you applying at the cleanest underwriting window, while the health record is clean? Is the policy noncancelable so the carrier cannot raise your premium or change terms? Run all of it across all five major carriers on contract language, not price, because the answers differ by carrier."
+      },
+      "business-finance-quote-comparison": {
+        "slug": "business-finance-quote-comparison",
+        "title": "Disability Insurance Quote Comparison for Business and Finance Professionals",
+        "description": "How the five major disability carriers compare for executives, business owners, attorneys, financial professionals, consultants, and accountants on contract language. Own-occupation mechanism, occupation class, and the standout feature for each of Guardian, MassMutual, The Standard, Ameritas, and Principal, plus why comparing definition wording matters more than price.",
+        "url": "https://seaworthy.io/specialties/business-finance-quote-comparison/",
+        "publishDate": "2026-04-01",
+        "tldr": "All five major disability carriers can be written as true own-occupation for business and finance professionals, and most office-based roles in this group qualify for class 6A, one of the most favorable occupation classes. How each carrier delivers the own-occupation definition differs: Guardian and Ameritas in the base contract, MassMutual via its Own Occupation Rider, Principal through its own-occupation definition as placed, and The Standard through a rider that also deems 'trial attorney' a specialty for litigators. Standouts worth knowing: Ameritas carries the highest business overhead expense limit of the majors at $100,000 a month for owners, and Principal is the most flexible on underwriting. Because the definitions are not interchangeable, the comparison worth making is on contract wording, not price alone."
+      },
+      "crna-ameritas": {
+        "slug": "crna-ameritas",
+        "title": "Ameritas Disability Insurance for CRNAs",
+        "description": "How Ameritas's DInamic Cornerstone treats a CRNA: true own-occupation in the base contract, the 24-month mental health limitation with a neurocognitive carve-out, the 2026 exam waiver for applicants 50 and under, and where Ameritas fits.",
+        "url": "https://seaworthy.io/specialties/crna-ameritas/",
+        "publishDate": "2026-06-10",
+        "tldr": "Ameritas writes CRNAs through its DInamic Cornerstone policy (form 4601NC) with true own-occupation built into the base definition, no rider required. It classes a nurse anesthetist at 3M, the same tier as Guardian and a notch below MassMutual's 4A, so MassMutual usually prices lower for a CRNA. A nurse anesthetist's mental health and substance claims pay for at most 24 months, the cap shared across the majors, though Ameritas pays neurocognitive conditions like dementia as ordinary sickness outside it. The carrier holds an A from AM Best with a Comdex of 82 as of 2026 and in our experience underwrites toward the conservative end, which makes it strongest on clean files."
+      },
       "crna-disability-insurance-by-career-stage": {
         "slug": "crna-disability-insurance-by-career-stage",
         "title": "CRNA Disability Insurance by Career Stage: New Graduate to Retirement",
@@ -306,6 +426,14 @@
         "url": "https://seaworthy.io/specialties/crna-disability-insurance-by-career-stage/",
         "publishDate": "2026-04-01",
         "tldr": "The right disability decision for a CRNA changes with career stage. New graduates should lock in coverage during the clean-underwriting window and use future increase options to scale it. Mid-career CRNAs need to close the gap between a policy sized to a starting salary and current income, before accumulated wear is documented and complicates re-underwriting. CRNAs approaching retirement should match the benefit period to their planned retirement age and watch for an occupation-definition mismatch if they move into non-clinical work."
+      },
+      "crna-disability-insurance-cost": {
+        "slug": "crna-disability-insurance-cost",
+        "title": "How Much Disability Insurance Costs for CRNAs",
+        "description": "What CRNAs pay for individual disability insurance, drawn from Seaworthy's placed book: most policies land between roughly $225 and $430 per month, typically 1% to 2.5% of income. Age, occupation class, benefit amount, elimination period, and riders drive the price.",
+        "url": "https://seaworthy.io/specialties/crna-disability-insurance-cost/",
+        "publishDate": "2026-07-20",
+        "tldr": "Across the CRNA policies in Seaworthy's placed book, as of the 2026 review, most premiums land between roughly $225 and $430 per month, with the median near $300, typically 1% to 2.5% of income. The biggest lever is age at purchase: measured per $1,000 of monthly benefit, the cost nearly doubles between buyers in their late 20s and buyers past 50. Health is the other, since about 4 in 10 CRNA applications in our book draw an exclusion or a rating (2026 audit)."
       },
       "crna-disability-insurance-mistakes": {
         "slug": "crna-disability-insurance-mistakes",
@@ -321,15 +449,31 @@
         "description": "Seaworthy Insurance specializes in CRNA coverage. The disability risks CRNAs face most, from musculoskeletal injury to mental health and substance use, and how the policy definition and limitations decide each claim.",
         "url": "https://seaworthy.io/specialties/crna-disability-risks/",
         "publishDate": "2026-04-01",
-        "tldr": "The disability risks most likely to interrupt or end a CRNA's career fall into four categories: musculoskeletal injury, mental health and burnout, substance use disorder, and hand or nerve conditions. Whether a claim pays turns on a few policy-level details: a true own-occupation definition paired with being classified as a nurse anesthetist, a benefit period long enough for multi-year conditions, and the mental and nervous limitation that commonly caps psychiatric claims at 24 months."
+        "tldr": "The disability risks most likely to interrupt or end a CRNA's career fall into four categories: musculoskeletal injury, mental health and burnout, substance use disorder, and hand or nerve conditions. Whether a claim pays turns on a few policy-level details: a true own-occupation definition measured against your actual anesthesia duties, a benefit period long enough for multi-year conditions, and the mental and nervous limitation that commonly caps psychiatric claims at 24 months."
       },
       "crna-group-vs-individual": {
         "slug": "crna-group-vs-individual",
         "title": "CRNA Group vs Individual Disability Insurance: Why Hospital Coverage Falls Short",
-        "description": "CRNA group LTD plans commonly cap benefits around $10,000/mo, pay taxable benefits, provide only time-limited own-occupation protection, and end at job change. Individual coverage closes the after-tax gap.",
+        "description": "CRNA group LTD plans commonly cap benefits at $10,000 to $15,000/mo, pay taxable benefits, provide only time-limited own-occupation protection, and end at job change. Individual coverage closes the after-tax gap.",
         "url": "https://seaworthy.io/specialties/crna-group-vs-individual/",
         "publishDate": "2026-04-01",
         "tldr": "Hospital group LTD plans for CRNAs commonly cap benefits around $10,000 per month, and because employer-paid group benefits are generally taxable, a stated $10,000 benefit typically nets closer to $6,500 after tax. An individual policy is paid tax-free and can be written as true own-occupation, so the after-tax benefit an individual policy can add is often several thousand dollars per month even when the face-value figures look close."
+      },
+      "crna-guardian": {
+        "slug": "crna-guardian",
+        "title": "Guardian Disability Insurance for CRNAs",
+        "description": "How Guardian's Provider Choice policy treats a CRNA: the 3M occupation class, true own-occupation in the base contract, the required 24-month mental health limitation, and where Guardian fits against the other major carriers.",
+        "url": "https://seaworthy.io/specialties/crna-guardian/",
+        "publishDate": "2026-06-10",
+        "tldr": "Guardian writes CRNAs through its Provider Choice policy (form 18ID, issued by Berkshire Life) at occupation class 3M, with true own-occupation built into the base contract. Mental health and substance claims are limited to 24 months for a nurse anesthetist, as they are at every major carrier. Guardian carries the highest financial-strength marks of the five majors, A++ from AM Best with a Comdex of 100 as of 2026, and in our experience the most conservative underwriting of the group. It tends to fit CRNAs with clean health histories who want the strongest contract; a complicated file often gets a better outcome elsewhere."
+      },
+      "crna-massmutual": {
+        "slug": "crna-massmutual",
+        "title": "MassMutual Disability Insurance for CRNAs",
+        "description": "How MassMutual's Radius Choice treats a CRNA: the 4A occupation class upgraded from 3A in 2024, true own-occupation through the Own Occupation Rider, the 24-month mental health limitation, and where MassMutual fits among the majors.",
+        "url": "https://seaworthy.io/specialties/crna-massmutual/",
+        "publishDate": "2026-06-10",
+        "tldr": "MassMutual writes CRNAs through its Radius Choice policy (form ICC15-XLIS-RC) at occupation class 4A, a public upgrade from 3A in 2024 that improved how the company prices nurse anesthetists. True own-occupation protection comes through the Own Occupation Rider, which must be added at purchase. A CRNA's mental health and substance claims pay benefits for 24 months at most, the cap every major applies to the profession. MassMutual pairs an A++ from AM Best and a Comdex of 98 as of 2026 with participating policies that can be credited dividends, and in our experience its underwriting sits in the middle of the five majors."
       },
       "crna-own-occupation": {
         "slug": "crna-own-occupation",
@@ -347,6 +491,14 @@
         "publishDate": "2026-04-03",
         "tldr": "Where and how you practice anesthesia directly shapes what a disability policy needs to cover. Hospital-employed CRNAs, anesthesia group members, independent contractors, and locum tenens providers each face different income documentation realities, occupational definition considerations, and portability concerns. Structuring coverage around the actual practice setting prevents gaps that surface only at claim time."
       },
+      "crna-principal": {
+        "slug": "crna-principal",
+        "title": "Principal Disability Insurance for CRNAs",
+        "description": "How Principal's Income Protector treats a CRNA: the 2M+ occupation class, the True Own Occupation definition Seaworthy quotes, the 24-month mental health limitation, and the underwriting flexibility that makes Principal the carrier for complicated files.",
+        "url": "https://seaworthy.io/specialties/crna-principal/",
+        "publishDate": "2026-06-10",
+        "tldr": "Principal writes CRNAs through its Income Protector policy (form ICC22-800) at occupation class 2M+, and every Principal quote Seaworthy runs uses the True Own Occupation definition, so a CRNA's claim is measured against anesthesia work even if other employment follows. The 24-month limitation on mental health and substance claims applies to nurse anesthetists here as it does at all five majors. Principal carries an A+ from AM Best with a Comdex of 90 as of 2026, and in our experience it is the most flexible underwriter of the group, which makes it the first carrier we test when a CRNA's medical or income history needs to be argued."
+      },
       "crna-questions-before-buying": {
         "slug": "crna-questions-before-buying",
         "title": "8 Questions Every CRNA Should Ask Before Buying Disability Insurance",
@@ -354,6 +506,174 @@
         "url": "https://seaworthy.io/specialties/crna-questions-before-buying/",
         "publishDate": "2026-04-03",
         "tldr": "The premium and the monthly benefit are the easy parts of a CRNA disability policy. What decides whether a claim pays is the definition of disability, the occupation class, the riders, and how the policy was underwritten. These eight questions cover each of those before you buy, while you can still change the answer."
+      },
+      "crna-the-standard": {
+        "slug": "crna-the-standard",
+        "title": "The Standard Disability Insurance for CRNAs",
+        "description": "How The Standard's Platinum Advantage treats a CRNA: the 2P occupation class, why the Own Occupation Rider is unavailable at that class, what the Regular Occupation base definition pays, and where The Standard still fits.",
+        "url": "https://seaworthy.io/specialties/crna-the-standard/",
+        "publishDate": "2026-06-10",
+        "tldr": "The Standard writes CRNAs through its Platinum Advantage policy at occupation class 2P, and at that class its Own Occupation Rider is unavailable, so a CRNA's policy with The Standard is not true own-occupation. The base Regular Occupation definition pays full total-disability benefits while a disabled CRNA is not working in another occupation, and residual coverage pays on partial income loss at a 20% threshold, higher than the 15% trigger at the other majors. Mental health and substance claims are limited to 24 months, as at all five carriers. The Standard holds an A from AM Best with a Comdex of 84 as of 2026, and in our experience is the second most flexible underwriter of the group."
+      },
+      "crna-underwriting": {
+        "slug": "crna-underwriting",
+        "title": "CRNA Disability Insurance Underwriting: What to Expect",
+        "description": "Seaworthy Insurance specializes in CRNA coverage. What disability insurance underwriting asks a CRNA for, the rating and exclusion triggers specific to the profession, and why roughly 40% of placed CRNA policies come back modified.",
+        "url": "https://seaworthy.io/specialties/crna-underwriting/",
+        "publishDate": "2026-07-13",
+        "tldr": "Underwriting a CRNA disability policy runs on two files: your medical record and your income documentation. Roughly 40% of the CRNA policies in Seaworthy's placed book carry an exclusion or a premium rating per the 2026 audit, and about half of those exclusions are for mental and nervous conditions, with back and neck history the other recurring driver. A modified offer is still a placed policy, and because an individual application can be shopped across five carriers at once, where and when you apply moves the outcome more than anything else you control."
+      },
+      "dentist-business-overhead-expense": {
+        "slug": "dentist-business-overhead-expense",
+        "title": "Business Overhead Expense Insurance for Practice-Owner Dentists",
+        "description": "Business overhead expense insurance reimburses a dental practice's fixed costs, staff salaries, rent, and equipment loans, while the owner is disabled, so the practice survives. It is separate from a personal own-occupation policy, which replaces the dentist's income; practice owners generally need both.",
+        "url": "https://seaworthy.io/specialties/dentist-business-overhead-expense/",
+        "publishDate": "2026-03-26",
+        "tldr": "Business overhead expense (BOE) insurance is built for a practice-owner dentist who is disabled and cannot generate revenue but still owes the practice's fixed bills. It reimburses covered costs such as staff salaries, rent, equipment and practice loans, and utilities, typically for a limited period of 12 to 24 months, so the practice can stay open or be sold rather than collapse. BOE is a different product from a personal own-occupation policy: BOE keeps the business running, while the personal policy replaces the dentist's own income. The two cover different bills and are sized separately. Among the carriers Seaworthy places, Ameritas offers one of the highest BOE monthly limits at $100,000, while The Standard offers BOE through a separate Business Overhead Protector product. A practice owner generally needs both a personal own-occupation policy and BOE; either one alone leaves a gap."
+      },
+      "dentist-disability-risks": {
+        "slug": "dentist-disability-risks",
+        "title": "Dentist Disability Risks and Why Own-Occupation Coverage Matters",
+        "description": "Dentistry is fine-motor, hands-on work. The disability risks dentists face most, from hand and wrist conditions to neck and back musculoskeletal injury, vision, and mental health, and why a true own-occupation definition paired with residual coverage decides each claim.",
+        "url": "https://seaworthy.io/specialties/dentist-disability-risks/",
+        "publishDate": "2026-03-26",
+        "tldr": "Dentistry depends on fine motor control and a sustained, physically awkward posture, so the disability risks most likely to end a dentist's clinical career concentrate in the hands and wrists, the neck and back, the eyes, and mental health. A small loss of fine-motor control can end clinical dentistry while leaving other work possible, which is exactly the situation a true own-occupation definition is built to cover, with a residual rider handling the partial-disability claims that are more common than total disability."
+      },
+      "dentist-group-vs-individual": {
+        "slug": "dentist-group-vs-individual",
+        "title": "Dentist Group vs Individual Disability Insurance: Why Individual Coverage Is the Core",
+        "description": "Most dentists are practice owners or associates with little or no employer group LTD, so individual own-occupation coverage is the core protection, not a supplement. Group plans cap benefits, cover base salary only, are taxable when employer-paid, and end at a job change.",
+        "url": "https://seaworthy.io/specialties/dentist-group-vs-individual/",
+        "publishDate": "2026-03-26",
+        "tldr": "Most dentists work as practice owners or associates and have little or no employer-provided long-term disability coverage, so for a dentist an individual own-occupation policy is the foundation rather than a top-up on a group plan. Where group coverage does exist it tends to cap the benefit at $10,000 to $15,000 a month, cover base salary only, pay taxable benefits when the employer funds the premium, limit own-occupation protection to roughly 24 months, and end the day employment ends. An individual policy is owned by the dentist, travels across the associate-to-owner transition, and can be written as true own-occupation that protects clinical dental work."
+      },
+      "dentist-own-occupation": {
+        "slug": "dentist-own-occupation",
+        "title": "Why a Dentist Needs True Own-Occupation Disability Insurance",
+        "description": "Seaworthy places dentist own-occupation coverage across all five major carriers. A weak definition lets a carrier argue a hand-injured dentist could do general dentistry, consulting, or teaching and cut the benefit; true specialty own-occupation ties the claim to the dental work you actually do.",
+        "url": "https://seaworthy.io/specialties/dentist-own-occupation/",
+        "publishDate": "2026-03-26",
+        "tldr": "True own-occupation is the provision that decides a dentist's disability claim. A weak or any-occupation contract lets a carrier argue that a hand-injured periodontist could still do general dentistry, consult, or teach, and reduce or deny the benefit on that basis. A true own-occupation definition keeps paying total-disability benefits when you can no longer do your dental work, even if you take other work. For sub-specialists, specialty deeming matters: a carrier that recognizes your ADA specialty as your occupation measures the claim against that specialty rather than against dentistry in general. All five major carriers can be written true own-occupation for a dentist. How each carrier gets there differs, which is why the definition and the classification both belong in writing before you buy."
+      },
+      "dentist-questions-before-buying": {
+        "slug": "dentist-questions-before-buying",
+        "title": "Questions a Dentist Should Ask Before Buying Disability Insurance",
+        "description": "Seaworthy places dentist disability coverage across all five major carriers. Before you buy, confirm true specialty own-occupation for your ADA specialty, a residual rider at a 15-20% threshold, mental and nervous coverage where available, business overhead expense if you own the practice, a benefit-increase option, and whether to apply while young and healthy.",
+        "url": "https://seaworthy.io/specialties/dentist-questions-before-buying/",
+        "publishDate": "2026-03-26",
+        "tldr": "Before a dentist buys disability insurance, six questions decide whether the policy fits. Is the definition true specialty own-occupation for your ADA specialty, so the claim is measured against your dental work? Is a residual rider included at a 15 to 20 percent income-loss threshold for partial claims? Is full-benefit-period mental and nervous coverage available, and worth the cost, given how those conditions drive claims? Does business overhead expense cover the practice's fixed costs if you own it? Is a benefit-increase option in place so coverage can grow with income? And does applying young, while the health record is clean, make sense, given that the dentist median age at issue is the youngest of the major professions? Run all six across all five major carriers, because the answers differ by carrier."
+      },
+      "dentist-quote-comparison": {
+        "slug": "dentist-quote-comparison",
+        "title": "Dentist Disability Insurance: Comparing the Five Major Carriers",
+        "description": "All five major disability carriers, The Standard, Guardian, MassMutual, Ameritas, and Principal, can be written as true own-occupation for dentists. They differ in how they deliver it, how they class dental specialties, and where each one stands out, which is what a side-by-side comparison is for.",
+        "url": "https://seaworthy.io/specialties/dentist-quote-comparison/",
+        "publishDate": "2026-03-26",
+        "tldr": "For a dentist, the five major disability carriers, The Standard, Guardian, MassMutual, Ameritas, and Principal, can each be written as true own-occupation, so the comparison is about contract language and fit, not just price. They deliver own-occupation differently: The Standard through its Own Occupation Rider for class 3D with ADA-specialty deeming, Guardian through Specialty Own-Occupation for dental classes, MassMutual through recognition of an ADA billing-code specialty, and Ameritas and Principal in the base definition. Each has a standout for dentists: Ameritas the highest BOE limit, MassMutual a 3D-to-4D upgrade with an AEGD or GPR residency plus a dental resident discount, The Standard a Residency Multi-Life Discount, Principal the most flexible underwriting of the five. Because the same dentist can be classed and priced differently from one carrier to the next, the right answer comes from running all five side by side."
+      },
+      "physician-benefit-sizing": {
+        "slug": "physician-benefit-sizing",
+        "title": "How Much Disability Insurance Can a Physician Get? Benefit Sizing Explained",
+        "description": "Carriers set a maximum dollar benefit from documented income through issue and participation limits, not a flat 60 percent. A single carrier will typically issue up to about $20,000 a month, varying by income, state, and specialty, with larger totals sometimes possible across carriers. Self-funded benefits are tax-free.",
+        "url": "https://seaworthy.io/specialties/physician-benefit-sizing/",
+        "publishDate": "2026-04-01",
+        "tldr": "How much disability coverage a physician can secure is set by carrier issue and participation limits, which convert documented income into a maximum dollar benefit rather than a flat percentage of pay. The most a single carrier will typically issue for a high earner is about $20,000 a month, varying by income, state, and specialty, and larger totals are sometimes possible by combining carriers. The replacement percentage declines as income rises, so the flat 60 percent rule of thumb does not hold for physician incomes, and because the maximum can sit below full income, the definition of disability and the residual rider decide how much of that income the policy actually protects. A future-increase feature locks in the right to raise coverage as income grows without new medical underwriting, which matters most for residents and fellows applying before their attending income arrives."
+      },
+      "physician-disability-risks": {
+        "slug": "physician-disability-risks",
+        "title": "Physician Disability Risks by Specialty and Why the Definition Decides",
+        "description": "Physician disability risk is specialty-dependent. The major categories are procedural and fine-motor loss for surgeons and proceduralists, mental health and burnout, musculoskeletal injury, and cognitive or neurological conditions. Why a hand or back condition can end operating while other medicine remains possible, and how the own-occupation definition decides each claim.",
+        "url": "https://seaworthy.io/specialties/physician-disability-risks/",
+        "publishDate": "2026-04-01",
+        "tldr": "Physician disability risk depends heavily on specialty. The major categories are procedural and fine-motor loss that ends operating for surgeons and proceduralists, mental health and burnout, musculoskeletal injury, and cognitive or neurological conditions. The defining feature for many physicians is that a single hand or back condition can end a procedural career while leaving other medicine fully possible, which is exactly the situation a true own-occupation definition is built to cover, paired with residual coverage for the partial-disability claims that are more common than total disability."
+      },
+      "physician-group-vs-individual": {
+        "slug": "physician-group-vs-individual",
+        "title": "Physician Group vs Individual Disability Insurance: Why Group LTD Falls Short",
+        "description": "Employed and hospital-based physicians often have group long-term disability, but it caps the benefit at $10,000 to $15,000 a month, counts base salary only, is taxable when the employer pays, switches to an any-occupation test after about 24 months, and ends at a job change. Individual own-occupation coverage is the portable, tax-free core.",
+        "url": "https://seaworthy.io/specialties/physician-group-vs-individual/",
+        "publishDate": "2026-04-01",
+        "tldr": "Many employed and hospital-based physicians have group long-term disability through their employer, but for a high-earning physician it tends to fall short in five specific ways. Group LTD commonly caps the benefit at $10,000 to $15,000 a month, figures on base salary only (so it excludes call pay, bonus, RVU and productivity compensation, and partnership distributions), pays taxable benefits when the employer funds the premium, limits own-occupation protection to roughly the first 24 months of a claim before switching to an any-occupation test, and ends the day employment ends. An individual policy is owned by the physician, sized to total documented income, paid tax-free when self-funded, and can be written as true own-occupation that protects the physician's specialty, so it is the portable core of income protection rather than a supplement on top of group."
+      },
+      "physician-mental-health": {
+        "slug": "physician-mental-health",
+        "title": "Physician Mental Health Disability Coverage and the 24-Month Cap",
+        "description": "Most physicians can secure full-benefit-period mental and nervous coverage, not the 24-month cap. The cap is forced only on a defined high-risk group: anesthesiology, emergency medicine, pain management, nurse anesthetists, and general dentistry. How each major carrier delivers full-period mental health coverage for everyone else, with CA and NY caveats.",
+        "url": "https://seaworthy.io/specialties/physician-mental-health/",
+        "publishDate": "2026-04-01",
+        "tldr": "The 24-month mental and nervous limitation that caps psychiatric and burnout claims is not universal for physicians. It is forced only on a defined high-risk group, anesthesiology, emergency medicine, pain management, nurse anesthetists, and general dentistry. Surgeons are not in that group, and most office-based and specialist physicians are not either, so for the majority of physicians full-benefit-period mental and nervous coverage is available. How it is delivered varies by carrier, and California and New York carry their own caveats."
+      },
+      "physician-occupation-classes": {
+        "slug": "physician-occupation-classes",
+        "title": "Physician Occupation Classes: How the Five Major Carriers Class Your Specialty",
+        "description": "The same physician specialty is classed very differently across Guardian, Principal, MassMutual, Ameritas, and The Standard, and class is a primary driver of premium. The full specialty-by-specialty grid, compiled from the carriers' current producer guides.",
+        "url": "https://seaworthy.io/specialties/physician-occupation-classes/",
+        "publishDate": "2026-07-07",
+        "tldr": "Disability carriers assign every physician specialty an occupation class, and the class is a primary driver of what you pay. The assignments diverge sharply: an orthopedic surgeon is classed 5M at Ameritas but 3M at Guardian and Principal, a psychiatrist is a full class apart between Ameritas and Guardian, and a pediatrician is Principal's only top-class physician. No single carrier classes every specialty favorably, which is why the same physician can see materially different premiums across the five majors. Classes are revised periodically; a current quote run at all five carriers is the only reliable read."
+      },
+      "physician-own-occupation": {
+        "slug": "physician-own-occupation",
+        "title": "Why a Physician Needs True Own-Occupation Disability Insurance",
+        "description": "A weak own-occupation definition lets a carrier argue a hand-injured surgeon could practice non-procedural medicine and cut the benefit; true specialty own-occupation ties the claim to the work you actually do, including the surgical procedures that drive a proceduralist's income. Compared across all five major carriers.",
+        "url": "https://seaworthy.io/specialties/physician-own-occupation/",
+        "publishDate": "2026-04-01",
+        "tldr": "True own-occupation is the provision that decides a physician's disability claim. A weak or any-occupation contract lets a carrier argue that a hand-injured surgeon could still see patients, read studies, or move into non-procedural medicine, and reduce or deny the benefit on that basis. A true own-occupation definition keeps paying total-disability benefits when you can no longer do your medical work, even if you take other work. For proceduralists, specialty recognition matters most: Guardian's Enhanced Medical Specialty definition deems a surgeon who earns most income from surgical procedures totally disabled if a condition ends those procedures, even while working in another role; MassMutual recognizes the specialty verified by your CPT billing codes; The Standard deems an ABMS or AOABOS specialty your occupation. All five major carriers can be written true own-occupation for a physician. How each carrier gets there differs, which is why the definition and the classification both belong in writing before you buy."
+      },
+      "physician-questions-before-buying": {
+        "slug": "physician-questions-before-buying",
+        "title": "Questions a Physician Should Ask Before Buying Disability Insurance",
+        "description": "Seaworthy places physician disability coverage across all five major carriers. Before you buy, confirm true own-occupation with specialty recognition for your specialty, procedural-income protection if you operate, full-benefit-period mental and nervous coverage if you are not in the high-risk group, a residual rider at a 15-20% threshold, a future increase option to grow with income, and whether to apply at the cleanest underwriting window.",
+        "url": "https://seaworthy.io/specialties/physician-questions-before-buying/",
+        "publishDate": "2026-04-01",
+        "tldr": "Before a physician buys disability insurance, six questions decide whether the policy fits. Is the definition true own-occupation with specialty recognition for your specialty, so a claim is measured against your medical work? If you operate, does the definition protect your procedural income specifically, as Guardian's Enhanced MD/DO definition is built to do? Are you in the high-risk group forced into a 24-month mental and nervous cap, anesthesiology, emergency medicine, or pain management, or can you secure full-benefit-period coverage, which most physicians including surgeons can? Is a residual rider included at a 15 to 20 percent income-loss threshold? Is a future increase option in place so coverage can grow with income, which matters most for residents and fellows? And are you applying at the cleanest underwriting window, while the health record is clean? Run all six across all five major carriers, because the answers differ by carrier."
+      },
+      "physician-quote-comparison": {
+        "slug": "physician-quote-comparison",
+        "title": "Physician Disability Insurance Quote Comparison: The Big 5 Compared",
+        "description": "Seaworthy compares the five major disability carriers for a physician on contract language, not price. All five can be written true own-occupation; what differs is how each recognizes your specialty, the physician occupation classes, and the standout feature, from Guardian's Enhanced Medical Specialty surgical definition to MassMutual's CPT billing-code recognition.",
+        "url": "https://seaworthy.io/specialties/physician-quote-comparison/",
+        "publishDate": "2026-04-01",
+        "tldr": "All five major carriers we place can be written true own-occupation for a physician, so the comparison that matters is contract language, not price. Guardian writes true own-occupation in its base contract and adds an Enhanced Medical Specialty definition that ties a qualifying surgeon's claim to surgical procedures. MassMutual delivers it through its Own Occupation Rider with CPT billing-code specialty recognition. The Standard deems an ABMS or AOABOS specialty your occupation and adds the Own Occupation Rider, which physicians qualify for. Ameritas provides true own-occupation in its base definition. Principal provides true own-occupation as placed and is the most flexible of the five on underwriting. The right carrier depends on your specialty, income, state, and medical history, which is why every quote should be run across all five at once."
+      },
+      "professionals-group-vs-individual": {
+        "slug": "professionals-group-vs-individual",
+        "title": "Group vs Individual Disability Insurance for Licensed and Credentialed Professionals",
+        "description": "Why hospital, health-system, and firm group LTD leaves a gap for licensed and credentialed professionals. Benefit caps, base-salary-only coverage, taxability, the switch to an any-occupation test after about 24 months, and why an individual own-occupation policy is the portable core.",
+        "url": "https://seaworthy.io/specialties/professionals-group-vs-individual/",
+        "publishDate": "2026-04-01",
+        "tldr": "For a licensed or credentialed professional, hospital, health-system, or firm group long-term disability coverage is a useful floor but a weak foundation. Group LTD caps the benefit, usually figures on base salary only, becomes taxable when the employer pays the premium, and almost always switches from an own-occupation test to a much stricter any-occupation test after roughly 24 months. It also ends when you change jobs. An individual own-occupation policy is owned by you, moves with you, and is built to keep paying against the duties of your specific licensed or credentialed role. For most professionals in this group, the individual policy is the core and the group plan is the supplement on top."
+      },
+      "professionals-occupation-class": {
+        "slug": "professionals-occupation-class",
+        "title": "Occupation Class for Licensed and Credentialed Professionals",
+        "description": "Occupation class varies widely across licensed professionals, unlike physicians or finance pros who cluster at the top. What the class drives (own-occ availability, issue and participation caps, price) and what it does not decide (the claim, which turns on the definition type and your real duties). Allied-health constraints and favored technical office classes.",
+        "url": "https://seaworthy.io/specialties/professionals-occupation-class/",
+        "publishDate": "2026-04-01",
+        "tldr": "Occupation class is the carrier's risk tier for a job, and for licensed and credentialed professionals it varies widely, unlike physicians or finance professionals who cluster at the top. The class drives which definitions and riders are available, the issue and participation caps on your benefit, and your price. It does not decide a claim. The claim turns on the definition type you bought and the material and substantial duties of the occupation you were performing when disability begins. Allied-health roles can carry class-based constraints, such as the mandatory 24-month own-occupation limitation Principal applies to pharmacists, while favored technical office professions can earn advantages like The Standard's Preferred Occupation Discount of up to 20% for engineers. There is no single class for this group, which is exactly why a current quote across carriers is the only reliable read."
+      },
+      "professionals-own-occupation": {
+        "slug": "professionals-own-occupation",
+        "title": "Own-Occupation Disability Insurance for Licensed and Credentialed Professionals",
+        "description": "For a licensed or credentialed professional, the credential is the asset. True own-occupation protects the specific licensed role. The 'you could still do other work' any-occupation trap, why the definition type decides a claim, and why carrier selection matters for some allied-health roles.",
+        "url": "https://seaworthy.io/specialties/professionals-own-occupation/",
+        "publishDate": "2026-04-01",
+        "tldr": "For a licensed or credentialed professional, the credential or license is the asset, and the own-occupation definition decides whether a claim pays. A true own-occupation contract pays if you cannot perform the material and substantial duties of your own occupation, even if you go on to work and earn in another field. A weaker any-occupation or modified definition lets a carrier argue that a disabled pharmacist or engineer could still do some other work and cut the benefit on that basis. What decides a claim is the definition type you bought plus the duties of the occupation you were actually performing when disability begins, not the occupation-class label. All five major carriers write true own-occupation coverage for these professions, but the mechanism differs by carrier, and for some allied-health roles the carrier you pick changes what you can get."
+      },
+      "professionals-questions-before-buying": {
+        "slug": "professionals-questions-before-buying",
+        "title": "Questions Licensed Professionals Should Ask Before Buying Disability Insurance",
+        "description": "Before buying disability insurance as a licensed professional, confirm true own-occupation for your licensed role, learn the occupation class you will be assigned and whether it limits own-occupation, size the benefit to total income rather than base, and check for a residual rider, a future-increase option, and a clean underwriting window.",
+        "url": "https://seaworthy.io/specialties/professionals-questions-before-buying/",
+        "publishDate": "2026-04-01",
+        "tldr": "Before a licensed professional outside medicine, dentistry, law, and tech buys disability insurance, a short list of provisions decides whether the policy fits. Is the definition true own-occupation for your licensed role, not a modified or any-occupation contract that lets a carrier argue you could still do some other work? What occupation class will you be assigned, and does that class limit own-occupation? This is the question that varies most across this group: a pharmacist faces a mandatory 24-month own-occupation limitation at Principal, while a favored office profession like an engineer can earn The Standard's Preferred Occupation Discount of up to 20 percent. Is the benefit sized to your total income, not just base salary? Is a residual rider included for partial losses, and a future-increase option so coverage grows with income without new medical underwriting? And are you applying at the cleanest underwriting window, while the health record is clean? Run all of it across all five major carriers on contract language, not price, because the answers differ by carrier and by occupation class."
+      },
+      "professionals-quote-comparison": {
+        "slug": "professionals-quote-comparison",
+        "title": "Disability Insurance Quote Comparison for Licensed and Credentialed Professionals",
+        "description": "How the five major disability carriers compare for licensed and credentialed professionals on contract language. Own-occupation mechanism, occupation class range, and the standout for each of Guardian, MassMutual, The Standard, Ameritas, and Principal, including the mandatory 24-month own-occupation limitation for pharmacists at Principal.",
+        "url": "https://seaworthy.io/specialties/professionals-quote-comparison/",
+        "publishDate": "2026-04-01",
+        "tldr": "All five major disability carriers can be written as true own-occupation for licensed and credentialed professionals, but how they deliver it and what occupation class they assign varies widely across this group. Guardian and Ameritas build the true own-occupation definition into the base contract; MassMutual delivers it through its Own Occupation Rider and classes many of these roles at 4A; The Standard delivers it through a rider and offers a Preferred Occupation Discount of up to 20% for favored office professions including engineers; Principal places it as true own-occupation but applies a mandatory 24-month own-occupation limitation for pharmacists. Because this group spreads across the occupation-class scale, the class assigned drives availability, limits, and price, while the claim still turns on the definition type and your real duties. The comparison worth making is on contract wording, not price alone."
       },
       "tech-disability-insurance-cost": {
         "slug": "tech-disability-insurance-cost",
@@ -369,7 +689,7 @@
         "description": "Why employer group LTD underinsures tech professionals: it generally covers base salary only, caps the monthly benefit, pays a taxable benefit, switches to any-occupation after about 24 months, and ends when you leave. How an individual own-occupation policy fills the gap for equity- and bonus-heavy pay.",
         "url": "https://seaworthy.io/specialties/tech-group-vs-individual/",
         "publishDate": "2026-06-08",
-        "tldr": "Employer group long-term disability is the default coverage a tech worker has, and it has structural limits: it generally replaces about 60% of base salary only, commonly caps the monthly benefit around $10,000 for most employees, pays a taxable benefit when the employer funds the premium, applies an own-occupation test that commonly lasts about 24 months before switching to an any-occupation standard, and ends the day you leave the job. Because tech pay is weighted toward bonus and equity, a base-only group benefit protects a fraction of total compensation. An individual own-occupation policy is the fix: it pays its stated benefit regardless of other coverage, can be sized to total earned income, is portable across job changes, and locks in your rate and health class. Most tech workers keep both, with the individual policy carrying the core weight."
+        "tldr": "Employer group long-term disability is the default coverage a tech worker has, and it has structural limits: it generally replaces about 60% of base salary only, commonly caps the monthly benefit at $10,000 to $15,000 for most employees, pays a taxable benefit when the employer funds the premium, applies an own-occupation test that commonly lasts about 24 months before switching to an any-occupation standard, and ends the day you leave the job. Because tech pay is weighted toward bonus and equity, a base-only group benefit protects a fraction of total compensation. An individual own-occupation policy is the fix: it pays its stated benefit regardless of other coverage, can be sized to total earned income, is portable across job changes, and locks in your rate and health class. Most tech workers keep both, with the individual policy carrying the core weight."
       },
       "tech-h1b-visa": {
         "slug": "tech-h1b-visa",
@@ -424,10 +744,58 @@
       "benefit-period": {
         "slug": "benefit-period",
         "title": "Benefit Period Explained: How Long Disability Insurance Pays",
-        "description": "The benefit period sets how long a disability policy pays. To-age-65 is the dominant structure in our placed book. Learn the trade-offs and the mental/nervous cap.",
+        "description": "The benefit period sets how long a disability policy pays. 87% of the policies in our placed book run to age 65 (2026 audit). Learn the trade-offs and the mental/nervous cap.",
         "url": "https://seaworthy.io/education/benefit-period/",
         "publishDate": "2026-03-23",
-        "tldr": "The benefit period is the maximum length of time a policy pays a claim. To-age-65 is the dominant choice in our placed book, paired with a 90-day elimination period. Shorter periods cost less but leave a gap if a disability outlasts them, and a separate mental/nervous limitation caps psychiatric claims at 24 months only for a defined high-risk occupation group."
+        "tldr": "The benefit period is the maximum length of time a policy pays a claim. To-age-65 is the dominant choice: 87% of the policies in our placed book carry it (2026 audit), paired with a 90-day elimination period. Shorter periods cost less but leave a gap if a disability outlasts them, and a separate mental/nervous limitation caps psychiatric claims at 24 months only for a defined high-risk occupation group."
+      },
+      "best-disability-insurance-companies": {
+        "slug": "best-disability-insurance-companies",
+        "title": "Best Disability Insurance Companies for 2026",
+        "description": "Guardian, Principal, MassMutual, The Standard, and Ameritas ranked from our placement experience: own-occupation contracts, financial ratings, underwriting posture, and who each company actually fits.",
+        "url": "https://seaworthy.io/education/best-disability-insurance-companies/",
+        "publishDate": "2026-07-07",
+        "tldr": "Five companies write nearly all of the true own-occupation disability coverage placed on high-earning professionals: Guardian, Principal, MassMutual, The Standard, and Ameritas. No single one wins every case. Our ranking from placement experience puts Guardian first on contract strength and financial ratings, Principal first when underwriting gets complicated, and the other three ahead for specific buyers, from dividend-paying policies to the highest business overhead limits. The reliable answer for any one person is a side-by-side quote across all five."
+      },
+      "best-disability-insurance-for-crnas": {
+        "slug": "best-disability-insurance-for-crnas",
+        "title": "Best Disability Insurance Companies for CRNAs (2026)",
+        "description": "MassMutual, Guardian, Principal, Ameritas, and The Standard ranked for CRNAs from our placement experience. Four of the five can be written true own-occupation.",
+        "url": "https://seaworthy.io/education/best-disability-insurance-for-crnas/",
+        "publishDate": "2026-06-10",
+        "tldr": "Four of the five major carriers can write a CRNA with true own-occupation coverage; The Standard is the exception because its Own Occupation Rider is not available at the 2P class it assigns nurse anesthetists. MassMutual leads our CRNA ranking after upgrading CRNAs to its 4A class in 2024, with Guardian and Principal close behind. The right carrier still depends on your health history and priorities, and every CRNA policy at every major carrier limits mental and nervous claims to 24 months."
+      },
+      "best-disability-insurance-for-dentists": {
+        "slug": "best-disability-insurance-for-dentists",
+        "title": "Best Disability Insurance Companies for Dentists (2026)",
+        "description": "Guardian, MassMutual, The Standard, Principal, and Ameritas ranked for dentists from our placement experience: specialty recognition, dental classes, and BOE limits.",
+        "url": "https://seaworthy.io/education/best-disability-insurance-for-dentists/",
+        "publishDate": "2026-06-10",
+        "tldr": "Every one of the five major carriers can write a dentist with true own-occupation coverage, so the best company for you comes down to specialty recognition, occupation class, health history, and whether you own a practice. Our ranking from placement experience puts Guardian first for its dental specialty definition, with MassMutual, The Standard, Principal, and Ameritas each winning specific dentist scenarios, from residency discounts to the highest business overhead expense limit we place."
+      },
+      "best-disability-insurance-for-physicians": {
+        "slug": "best-disability-insurance-for-physicians",
+        "title": "Best Disability Insurance Companies for Physicians (2026)",
+        "description": "Guardian, Principal, MassMutual, The Standard, and Ameritas ranked for physicians, from our placement experience: contract strength, specialty recognition, and underwriting.",
+        "url": "https://seaworthy.io/education/best-disability-insurance-for-physicians/",
+        "publishDate": "2026-06-10",
+        "tldr": "There is no single best disability insurance company for every physician. All five major carriers can be written true own-occupation for most medical specialties, and the right fit turns on your specialty, your health history, and which contract provisions you care about most. The ranking below reflects Seaworthy's placement experience: Guardian leads on contract strength in our view, Principal on underwriting flexibility, MassMutual on specialty recognition and dividends, with The Standard and Ameritas each carrying real strengths of their own."
+      },
+      "best-disability-insurance-for-residents": {
+        "slug": "best-disability-insurance-for-residents",
+        "title": "Best Disability Insurance for Medical Residents and Fellows (2026)",
+        "description": "All five major carriers run dedicated resident programs: $5,000 to $8,000 a month with no income documentation, group LTD disregarded, resident discounts, and future increase rights. The full five-carrier comparison for residents and fellows.",
+        "url": "https://seaworthy.io/education/best-disability-insurance-for-residents/",
+        "publishDate": "2026-07-07",
+        "tldr": "Every one of the five major carriers runs a dedicated program for medical residents and fellows: coverage of roughly $5,000 to $8,000 a month with no income documentation, group LTD generally disregarded, resident discounts of 10 to 20 percent, and future increase rights that let the policy grow to attending income without new medical underwriting. The programs differ in the details that matter: The Standard and MassMutual publish the highest no-documentation limits, Guardian gives residents a 3x future increase multiple, Ameritas extends its 15 percent discount to attending physicians at teaching hospitals, and windows to apply run from roughly a year before graduation to as much as two years after. The bigger lever than any discount is timing: applying while your record is clean is what keeps exclusions off the contract for the rest of your career."
+      },
+      "broker-vs-direct-disability-insurance": {
+        "slug": "broker-vs-direct-disability-insurance",
+        "title": "Should You Buy Disability Insurance Through a Broker or Directly?",
+        "description": "What buying disability insurance direct from a carrier or captive agent means, what an independent broker actually does, when direct is fine, why carrier comparison matters in this product, and how broker compensation works.",
+        "url": "https://seaworthy.io/education/broker-vs-direct-disability-insurance/",
+        "publishDate": "2026-06-10",
+        "tldr": "Buying disability insurance directly from a carrier or its captive agent means choosing from one company's products at that company's filed rates. An independent broker quotes the same need across multiple carriers, compares the contract language behind the prices, and negotiates underwriting outcomes when a file draws an exclusion or rating. Direct can work fine when the carrier in question already fits your occupation and health profile. Comparison earns its keep because carriers class the same occupation differently, deliver own-occupation protection through different mechanisms, and underwrite the same medical history to different conclusions. Brokers are paid by the carrier through commissions built into filed rates, rather than through a fee added for the client."
       },
       "carrier-specific-advantages": {
         "slug": "carrier-specific-advantages",
@@ -443,15 +811,15 @@
         "description": "A catastrophic disability rider adds benefit for severe impairment (loss of 2+ ADLs). It is rare in practice and the cost-to-value math is usually unfavorable.",
         "url": "https://seaworthy.io/education/catastrophic-disability-rider/",
         "publishDate": "2026-03-24",
-        "tldr": "A catastrophic disability rider adds benefit on top of your base coverage when a disability is severe enough that you cannot perform two or more activities of daily living. The protection is real, but catastrophic disabilities are uncommon, and the cost-to-expected-value math is usually unfavorable. In our placed book (2025 audit), only about 3% of policies carry this rider; it is a situational add-on, not a core one."
+        "tldr": "A catastrophic disability rider adds benefit on top of your base coverage when a disability is severe enough that you cannot perform two or more activities of daily living. The protection is real, but catastrophic disabilities are uncommon, and the cost-to-expected-value math is usually unfavorable. It is a situational add-on we recommend for specific risk profiles rather than a default."
       },
       "cola-rider": {
         "slug": "cola-rider",
         "title": "Cost-of-Living Adjustment (COLA) Rider: Protecting Benefits Against Inflation",
-        "description": "A COLA rider raises your disability benefit during a long claim so inflation does not erode it. See per-carrier structures and why most policies lack one.",
+        "description": "A COLA rider raises your disability benefit during a long claim so inflation does not erode it. See per-carrier structures and when the rider earns its premium.",
         "url": "https://seaworthy.io/education/cola-rider/",
         "publishDate": "2026-03-23",
-        "tldr": "A COLA rider increases your monthly benefit during a long claim so inflation does not quietly erode its value. It matters most for younger buyers with long benefit periods and loses value once you are past roughly age 50. Most policies we place do not carry one (COLA adoption is about 38% in our 2025 book audit), which leaves an inflation gap on the majority of long-term claims."
+        "tldr": "A COLA rider increases your monthly benefit during a long claim so inflation does not quietly erode its value. It matters most for younger buyers with long benefit periods and loses value once you are past roughly age 50. COLA has become standard practice in our placements: over 70% of the policies we placed in the last two years include one (2026 book audit), and we recommend it for most buyers under 50."
       },
       "disability-insurance-claims-process": {
         "slug": "disability-insurance-claims-process",
@@ -483,7 +851,7 @@
         "description": "Three myths cost high earners the most: that group coverage is enough, that a policy replaces a flat 60% of income, and that being healthy means you can wait. Here is what the data shows.",
         "url": "https://seaworthy.io/education/disability-insurance-myths-high-earners/",
         "publishDate": "2026-04-02",
-        "tldr": "The myths that cost high earners the most are that employer group coverage is enough, that a disability policy replaces a flat 60% of income, and that being healthy now means you can safely wait. Group LTD caps around $10,000, covers base only, and is taxable; individual benefits are income-based and the replacement ratio declines with income, leaving high earners replacing roughly a third of their pay; and waiting is the riskiest myth, because about 28% of the policies we place come back with an exclusion or rating tied to a documented condition."
+        "tldr": "The myths that cost high earners the most are that employer group coverage is enough, that a disability policy replaces a flat 60% of income, and that being healthy now means you can safely wait. Group LTD caps at $10,000 to $15,000, covers base only, and is taxable; individual benefits are sized in dollars to your income, so the move is to secure the carrier maximum rather than chase a percentage; and waiting is the riskiest myth, because exclusions and ratings tied to documented conditions show up on about 28% of the policies we place."
       },
       "disability-insurance-riders-explained": {
         "slug": "disability-insurance-riders-explained",
@@ -491,7 +859,7 @@
         "description": "What each disability insurance rider does, whether it earns its premium for a high earner, and which ones our clients actually adopt. Grounded in our placed-book data.",
         "url": "https://seaworthy.io/education/disability-insurance-riders-explained/",
         "publishDate": "2026-03-23",
-        "tldr": "Riders turn a base disability policy into coverage that fits how you actually earn, but they are not equal value. Residual is the foundation and almost always earns its cost, because most claims are partial rather than total. A COLA rider is high value under about 45; a future increase option is essential early in a career; return of premium, catastrophic, and social insurance supplement riders rarely clear the bar for high earners. Adoption in our placed book reflects this: roughly 38% carry COLA, about 30% carry a future increase option, and only about 3% carry a catastrophic rider."
+        "tldr": "Riders turn a base disability policy into coverage that fits how you actually earn, but they are not equal value. Residual is the foundation and almost always earns its cost, because most claims are partial rather than total. A COLA rider is high value under about 45; a future increase option is essential early in a career; return of premium, catastrophic, and social insurance supplement riders rarely clear the bar for high earners. Our own placement practice reflects this: over 70% of our placements in the last two years include COLA (2026 book audit), and most new policies include a benefit-increase feature."
       },
       "disability-insurance-tax-guide": {
         "slug": "disability-insurance-tax-guide",
@@ -507,7 +875,7 @@
         "description": "The elimination period is the wait before benefits start. 90 days is the standard in our placed book. Compare 60, 90, and 180 days and how each affects premium.",
         "url": "https://seaworthy.io/education/elimination-period/",
         "publishDate": "2026-03-23",
-        "tldr": "The elimination period is the number of days you must be disabled before benefits begin, like a deductible measured in time. A 90-day period is the standard in our placed book, paired with a to-age-65 benefit period. A shorter wait costs more; a longer wait costs less but means self-insuring for longer."
+        "tldr": "The elimination period is the number of days you must be disabled before benefits begin, like a deductible measured in time. A 90-day period is the standard: 82% of the policies in our placed book carry one (2026 audit), paired with a to-age-65 benefit period. A shorter wait costs more; a longer wait costs less but means self-insuring for longer."
       },
       "exclusion-riders": {
         "slug": "exclusion-riders",
@@ -515,7 +883,7 @@
         "description": "About 28% of the policies we place carry an exclusion or rating. Here is what they are, which professions see the most, and how exclusions get removed.",
         "url": "https://seaworthy.io/education/exclusion-riders/",
         "publishDate": "2026-04-02",
-        "tldr": "An exclusion rider carves a specific condition out of a disability policy in exchange for issuing coverage rather than declining it. In our placed book (2025 audit), roughly 28% of policies carry an exclusion or a rating, with mental and nervous history the single most common cause. An exclusion may be permanent, but in our experience it often is not: we negotiate for ratings and exclusions to be reconsiderable, and we have strong success getting them removed, commonly about two years after issue once a clean interval passes."
+        "tldr": "An exclusion rider carves a specific condition out of a disability policy in exchange for issuing coverage rather than declining it. In our placed book (2026 audit), roughly 28% of policies carry an exclusion or a rating, with mental and nervous history the single most common cause. An exclusion may be permanent, but in our experience it often is not: we negotiate for ratings and exclusions to be reconsiderable, and we have strong success getting them removed, commonly about two years after issue once a clean interval passes."
       },
       "future-increase-options": {
         "slug": "future-increase-options",
@@ -523,7 +891,7 @@
         "description": "FIO lets you raise your disability benefit later without new medical underwriting, locking insurability before a health event or exclusion can limit you. Why it matters early.",
         "url": "https://seaworthy.io/education/future-increase-options/",
         "publishDate": "2026-03-03",
-        "tldr": "The future increase option lets you raise your disability benefit later without new medical underwriting. Its real job is locking in insurability before a health event, an exclusion, or a rating can limit you. That matters because roughly 28% of policies in our placed book come back with an exclusion or rating; once your health changes, new coverage can be limited or priced up. FIO is most valuable early in a career, yet only about 30% of policies in our book carry one."
+        "tldr": "The future increase option lets you raise your disability benefit later without new medical underwriting. Its real job is locking in insurability before a health event, an exclusion, or a rating can limit you. That matters because roughly 28% of policies in our placed book come back with an exclusion or rating; once your health changes, new coverage can be limited or priced up. FIO is the name Guardian uses; each carrier offers its own version of the benefit-increase feature under its own name. The feature is most valuable early in a career, and most new policies we place include some form of it."
       },
       "graded-vs-level-premium": {
         "slug": "graded-vs-level-premium",
@@ -539,7 +907,7 @@
         "description": "Individual own-occupation coverage is indemnity: it pays regardless of other income. Group LTD coordinates, caps, and is taxable. See why high earners need both.",
         "url": "https://seaworthy.io/education/group-vs-individual/",
         "publishDate": "2026-03-03",
-        "tldr": "The core difference is structural. An individual own-occupation policy is indemnity, so it pays its stated monthly benefit regardless of any other coverage. Group LTD coordinates with other income, caps the benefit (commonly around $10,000), covers base salary only, and is usually taxable when the employer pays. For a high earner, group alone tends to replace only about a third of income, which is the gap individual coverage is built to close."
+        "tldr": "The core difference is structural. An individual own-occupation policy is indemnity, so it pays its stated monthly benefit regardless of any other coverage. Group LTD coordinates with other income, caps the benefit (commonly $10,000 to $15,000), covers base salary only, holds its own-occupation definition for only about 24 months, and is usually taxable when the employer pays. Those limits leave a large gap for a high earner, which individual coverage is built to close."
       },
       "guaranteed-renewable-vs-noncancelable": {
         "slug": "guaranteed-renewable-vs-noncancelable",
@@ -549,13 +917,29 @@
         "publishDate": "2026-03-24",
         "tldr": "Disability policies carry two renewal guarantees. Guaranteed renewable locks your benefits and terms but lets the carrier raise premiums by class. Noncancelable locks both the premium and the terms to a stated age, usually 65. Noncancelable plus guaranteed renewable is the standard structure for professionals, and all five major carriers we place write it."
       },
+      "guaranteed-standard-issue-disability-insurance": {
+        "slug": "guaranteed-standard-issue-disability-insurance",
+        "title": "How Guaranteed Standard Issue (GSI) Disability Insurance Works",
+        "description": "Guaranteed standard issue (GSI) disability insurance gives eligible employees, most often physicians at hospital systems, an individual policy at a guaranteed amount with no medical underwriting. What GSI is, who can get it, the own-occupation question, the three catches, and how it layers with individual coverage.",
+        "url": "https://seaworthy.io/education/guaranteed-standard-issue-disability-insurance/",
+        "publishDate": "2026-07-20",
+        "tldr": "Guaranteed standard issue (GSI) disability insurance is employer-sponsored coverage that issues an individual disability policy at a guaranteed amount with no medical underwriting; health history, prior exclusions, and ratings do not affect issue at the GSI amount. It is real individual coverage on a non-cancelable policy the participant owns and keeps if they change jobs, with true own-occupation available, though only an employer can sponsor the case and coverage above the guaranteed amount requires full underwriting. Seaworthy does not place GSI; we help evaluate how a GSI offer fits alongside individual coverage."
+      },
       "how-much-disability-insurance-do-i-need": {
         "slug": "how-much-disability-insurance-do-i-need",
         "title": "How Much Disability Insurance Do You Need? Sizing Coverage for High Earners",
-        "description": "The benefit is income-based and the replacement ratio falls as income rises. For high earners the maximum often replaces about a third of income.",
+        "description": "The benefit is income-based, not a flat 60 percent. Carriers issue a maximum dollar benefit set by your income. Secure that maximum, sized to your obligations, and grow it as income rises.",
         "url": "https://seaworthy.io/education/how-much-disability-insurance-do-i-need/",
         "publishDate": "2026-03-24",
-        "tldr": "Disability insurance is not a flat 60 percent of income. The maximum benefit a carrier will issue is income-based and the replacement ratio declines as income rises. For high earners the maximum often replaces only about a third of income, which is the coverage gap most professionals discover too late. Size your benefit to the income-based limits and your real obligations, not to a percentage."
+        "tldr": "There is no flat percentage rule. The maximum a carrier will issue is a dollar figure set by your documented income, and for high earners it can run from roughly $10,000 a month into the high teens. The most a single carrier will typically issue tops out around $20,000 a month for the highest earners, and it varies by state and specialty. The right approach is to secure the maximum issuable benefit, size it to your real obligations, structure it with a true own-occupation definition and residual coverage, and grow it with a future increase option as your income climbs."
+      },
+      "how-to-choose-a-disability-insurance-advisor": {
+        "slug": "how-to-choose-a-disability-insurance-advisor",
+        "title": "How to Choose a Disability Insurance Advisor",
+        "description": "A buyer's framework for choosing a disability insurance advisor. How to weigh specialization, independence, credentials, and track record, what the CLU, ChFC, and CFP designations actually mean, and how to verify an advisor before you trust them with your income.",
+        "url": "https://seaworthy.io/education/how-to-choose-a-disability-insurance-advisor/",
+        "publishDate": "2026-07-20",
+        "tldr": "Weigh four things when choosing a disability insurance advisor. How much of the advisor's practice is disability insurance for your profession, whether they are independent and can compare the major carriers, whether they hold a recognized credential such as the CLU, ChFC, or CFP, and whether their experience with your situation is verifiable. Treat a credential as the floor and specialization as the differentiator. No designation is specific to disability insurance, so the letters signal broad rigor, and depth in this one product comes from focus and carrier access."
       },
       "long-term-vs-short-term-disability": {
         "slug": "long-term-vs-short-term-disability",
@@ -563,7 +947,7 @@
         "description": "Short-term covers months; long-term covers years. For high earners, individual long-term coverage fills the gap above the group cap and stays portable.",
         "url": "https://seaworthy.io/education/long-term-vs-short-term-disability/",
         "publishDate": "2026-03-26",
-        "tldr": "Short-term disability covers a brief recovery, usually a few months. Long-term disability is the protection that matters for a serious claim, and for high earners it has to be individual. Group long-term commonly caps around $10,000 on base salary, is taxable when employer-paid, and runs own-occupation for roughly 24 months before an any-occupation test. An individual long-term policy is indemnity, portable, and fills the long-term gap above the group cap."
+        "tldr": "Short-term disability covers a brief recovery, usually a few months. Long-term disability is the protection that matters for a serious claim, and for high earners it has to be individual. Group long-term commonly caps at $10,000 to $15,000 on base salary, is taxable when employer-paid, and runs own-occupation for roughly 24 months before an any-occupation test. An individual long-term policy is indemnity, portable, and fills the long-term gap above the group cap."
       },
       "mental-nervous-limitations": {
         "slug": "mental-nervous-limitations",
@@ -575,11 +959,27 @@
       },
       "multi-life-disability-insurance": {
         "slug": "multi-life-disability-insurance",
-        "title": "Multi-Life and GSI Disability Insurance for Firms and Practices",
-        "description": "Multi-life lets a firm's professionals buy individual own-occupation policies together at a discount. GSI adds limited or no medical underwriting. Both stay portable.",
+        "title": "Multi-Life Disability Insurance for Firms and Practices",
+        "description": "Multi-life lets a firm's professionals buy individual own-occupation policies together at a premium discount, through one coordinated arrangement, while each person owns a portable contract.",
         "url": "https://seaworthy.io/education/multi-life-disability-insurance/",
         "publishDate": "2026-03-26",
-        "tldr": "Multi-life is a way for a firm or practice to put its professionals on individual own-occupation policies through one coordinated arrangement, typically with a premium discount for the group. Guaranteed Standard Issue (GSI), which The Standard offers for qualifying employer-sponsored cases, goes further by limiting or removing medical underwriting. Both keep the contract quality and portability of individual coverage, so each person owns a policy that travels with them."
+        "tldr": "Multi-life is a way for a firm or practice to put its professionals on individual own-occupation policies through one coordinated arrangement, usually with a premium discount for the group. Each participant owns their own contract with their own benefit and own-occupation definition, so the coverage stays portable and individually owned. It pairs the contract quality of individual coverage with the efficiency and pricing of buying together."
+      },
+      "northwestern-mutual-disability-proposal-review": {
+        "slug": "northwestern-mutual-disability-proposal-review",
+        "title": "Reviewing a Northwestern Mutual Disability Insurance Proposal",
+        "description": "Six things to verify on a Northwestern Mutual disability insurance illustration before signing: which definition of total disability it uses, the mental health limitation and buy-up, the residual rider, the guaranteed maximum premium behind the dividend projection, the future increase option, and how it compares to the independent market.",
+        "url": "https://seaworthy.io/education/northwestern-mutual-disability-proposal-review/",
+        "publishDate": "2026-07-07",
+        "tldr": "A Northwestern Mutual disability proposal can be a strong contract or an ordinary one, and the brand name does not tell you which. The six checks that decide it: whether the illustration uses the True Own Occupation or Medical True Own Occupation definition rather than the standard one, whether the mental and nervous limitation is capped at 24 months or bought up to the full benefit period, whether a residual rider covers partial disability, what the guaranteed maximum premium is behind the dividend-adjusted projection, whether a future increase option protects your insurability, and how the whole package prices against the five-carrier independent market on your exact profile."
+      },
+      "northwestern-mutual-vs-guardian-disability-insurance": {
+        "slug": "northwestern-mutual-vs-guardian-disability-insurance",
+        "title": "Northwestern Mutual vs Guardian Disability Insurance",
+        "description": "A provision-level comparison of Northwestern Mutual's TT series and Guardian's Provider Choice for physicians and dentists: own-occupation definitions after NWM's 2022 changes, mental health coverage, dividends vs guaranteed cost, and distribution.",
+        "url": "https://seaworthy.io/education/northwestern-mutual-vs-guardian-disability-insurance/",
+        "publishDate": "2026-07-07",
+        "tldr": "Northwestern Mutual and Guardian are both top-rated carriers whose strongest own-occupation definitions are closer than the older physician-finance reviews suggest, especially since NWM's December 2022 definition expansion. The durable differences are mental health coverage (Guardian covers most occupations for the full benefit period by default; NWM commonly applies a 24-month limitation with a buy-up), pricing structure (NWM's participating policies project dividends that are not guaranteed; Guardian sells a fixed guaranteed cost), and distribution (an NWM advisor shows one carrier; Guardian is sold through independent brokers who compare it against the market). On both shelves, the strongest definition is elective, so the illustration in your hand decides more than the brand does."
       },
       "own-occupation-by-carrier-comparison": {
         "slug": "own-occupation-by-carrier-comparison",
@@ -608,10 +1008,10 @@
       "residual-disability-benefits": {
         "slug": "residual-disability-benefits",
         "title": "Residual Disability Benefits: How Partial-Loss Coverage Actually Pays",
-        "description": "Most disability claims are partial, not total. Learn how residual benefits pay on a 15-20% income loss, why partial is residual, and how the recovery benefit works.",
+        "description": "Most disability claims are partial, not total, so residual is the provision high earners use most. Over 95% of the policies in our placed book carry a residual rider (2026 audit). How it pays on a 15-20% income loss.",
         "url": "https://seaworthy.io/education/residual-disability-benefits/",
         "publishDate": "2026-03-03",
-        "tldr": "Residual disability, also called partial disability, pays a proportional benefit when a covered illness or injury reduces your income, not only when you cannot work at all. Most disabilities are partial, so this is the provision most high earners actually use. Across the five major carriers we place, the trigger is a 15% income loss (20% at The Standard), all five pay roughly a 50% minimum early in a claim, all include a recovery benefit for the return-to-work ramp, and none require a prior period of total disability. Because an individual policy already replaces only about a third of a high earner's income, residual is the part of the contract that does the most work over a career."
+        "tldr": "Residual disability, also called partial disability, pays a proportional benefit when a covered illness or injury reduces your income, not only when you cannot work at all. Most disabilities are partial, so this is the provision most high earners actually use, and over 95% of the policies in our placed book carry a residual rider (2026 audit). Across the five major carriers we place, the trigger is a 15% income loss (20% at The Standard), all five pay roughly a 50% minimum early in a claim, all include a recovery benefit for the return-to-work ramp, and none require a prior period of total disability. Because carrier issue limits cap the maximum benefit below a high earner's full income, residual is the part of the contract that does the most work over a career."
       },
       "retirement-protection-rider": {
         "slug": "retirement-protection-rider",
@@ -635,15 +1035,7 @@
         "description": "A student loan rider pays your education debt during a disability, separate from your base benefit. Most useful for residents and early-career professionals.",
         "url": "https://seaworthy.io/education/student-loan-rider/",
         "publishDate": "2026-03-24",
-        "tldr": "A student loan rider pays a benefit toward your education debt during a disability, on top of your base benefit, so a long claim does not put your loans into default. It matters most for residents and early-career professionals carrying large balances, and it is a strong reason to apply early. MassMutual offers a 20% medical-resident and 10% dental-resident discount, which makes locking in coverage in training especially efficient."
-      },
-      "veterinarian-disability-insurance-traps": {
-        "slug": "veterinarian-disability-insurance-traps",
-        "title": "Disability Insurance Traps for Veterinarians",
-        "description": "Veterinarians are often placed in a lower occupation class than physicians, face real injury and zoonotic exposure, and need true own-occupation. Here are the traps to avoid.",
-        "url": "https://seaworthy.io/education/veterinarian-disability-insurance-traps/",
-        "publishDate": "2026-04-06",
-        "tldr": "Veterinarians face a set of disability traps that other professionals do not. They are often classed lower than physicians, which raises premium and can limit available riders and benefit. Their work carries genuine physical and zoonotic exposure, and their income often splits between veterinary services and practice ownership. The provision that decides a claim is a true own-occupation definition applied to your real duties, and association coverage alone rarely fills the gap. Terms are set at underwriting, so applying while healthy is the lever."
+        "tldr": "A student loan rider pays a benefit toward your education debt during a disability, on top of your base benefit, so a long claim does not put your loans into default. It matters most for residents and early-career professionals carrying large balances, and it is a strong reason to apply early. MassMutual runs resident discount programs commonly reaching 20% for medical and 10% for dental residents, which makes locking in coverage in training especially efficient."
       },
       "when-to-buy-disability-insurance": {
         "slug": "when-to-buy-disability-insurance",
@@ -651,7 +1043,7 @@
         "description": "The median age at issue in our book is 36, and about 28% of policies get an exclusion or rating. Apply before health events to protect price and coverage.",
         "url": "https://seaworthy.io/education/when-to-buy-disability-insurance/",
         "publishDate": "2026-03-26",
-        "tldr": "The best time to buy disability insurance is while you are young and healthy, because age and health are the two largest levers on both price and coverage and both only move one direction over time. In our placed book the median age at issue is 36, and about 28 percent of policies come back with an exclusion or a rating. Applying before a health event is the most reliable way to keep coverage broad and the price low."
+        "tldr": "The best time to buy disability insurance is while you are young and healthy, because age and health are the two largest levers on both price and coverage and both only move one direction over time. In our placed book the median age at issue is 36, and about 28 percent of policies end up with an exclusion or a rating. Applying before a health event is the most reliable way to keep coverage broad and the price low."
       }
     },
     "carriers": {
@@ -661,7 +1053,7 @@
         "description": "A provision-level review of Ameritas DInamic Cornerstone (form 4601NC): true own-occupation in the base definition, a residual rider that pays full loss for the first three months, a mental-health cap that excludes neurocognitive disease, the highest BOE limit of the majors, and the conservative underwriting that defines the carrier.",
         "url": "https://seaworthy.io/carriers/ameritas/",
         "publishDate": "2026-03-21",
-        "tldr": "Ameritas DInamic Cornerstone (form 4601NC) puts true own-occupation in the base definition, no rider required, and pairs it with strong early-claim residual mechanics (full loss paid for the first three months) and a mental-health limitation that notably excludes neurocognitive disease. Ameritas carries the highest business-overhead-expense limit of the majors ($100,000 a month). The trade-off is underwriting: in our experience it sits toward the conservative end, second only to Guardian, so it rewards clean, well-documented files."
+        "tldr": "Ameritas DInamic Cornerstone (form 4601NC) puts true own-occupation in the base definition, no rider required, and pairs it with strong early-claim residual mechanics (full loss paid for the first three months) and a mental-health limitation that notably excludes neurocognitive disease. Ameritas carries the highest business-overhead-expense limit of the majors ($100,000 a month). The trade-off is underwriting: in our experience it sits toward the conservative end of the five, so it rewards clean, well-documented files."
       },
       "guardian": {
         "slug": "guardian",
@@ -678,6 +1070,14 @@
         "url": "https://seaworthy.io/carriers/massmutual/",
         "publishDate": "2026-03-21",
         "tldr": "MassMutual Radius Choice (form ICC15-XLIS-RC) is a participating, dividend-eligible contract from a mutual company. It delivers true own-occupation through its Own Occupation Rider, with specialty recognition tied to CPT/ADA billing codes, and carries a 3% compound COLA with no cap. It is one of the few carriers that can extend mental-health coverage past the 24-month cap (by endorsement, outside California), and, to our knowledge, the only major that will write a policy for active-duty military, with military, government, and resident discounts."
+      },
+      "northwestern-mutual": {
+        "slug": "northwestern-mutual",
+        "title": "Northwestern Mutual Disability Insurance Review",
+        "description": "A provision-level review of Northwestern Mutual's individual disability insurance (TT series) from an independent brokerage that does not sell it: the 2022 definition changes, Medical True Own Occupation, dividends, the 24-month mental health limitation, and what to verify on a proposal.",
+        "url": "https://seaworthy.io/carriers/northwestern-mutual/",
+        "publishDate": "2026-07-07",
+        "tldr": "Northwestern Mutual is the largest individual disability income insurer in the country by direct premiums earned (per S&P Capital IQ Pro data cited by the company), with top-tier financial ratings and participating policies that pay dividends. Since December 2022 it has offered medical professionals a choice of true own-occupation definitions, which makes the older blanket criticism of its contracts partially outdated. Seaworthy does not sell Northwestern Mutual, because it distributes only through its own advisors; we review it because so many of our clients are holding an NWM proposal when they call, and the question that decides everything is which definition of total disability that specific proposal uses."
       },
       "principal": {
         "slug": "principal",
@@ -697,77 +1097,21 @@
       }
     },
     "associations": {
-      "aicpa-disability-plan": {
-        "slug": "aicpa-disability-plan",
-        "title": "AICPA Disability Plan: Coverage Limits CPAs Should Know",
-        "description": "AICPA group disability has caps and definition limits that leave senior CPAs underinsured. See where it helps and where individual coverage matters.",
-        "url": "https://seaworthy.io/associations/aicpa-disability-plan/",
-        "publishDate": "2026-04-03",
-        "tldr": "The AICPA group disability plan offers CPAs affordable baseline coverage but caps benefits below what partners and senior professionals earn. The plan uses broad accounting definitions rather than distinguishing between audit, tax, advisory, and forensic specialties. Individual supplemental coverage is essential for CPAs earning above plan caps, particularly those in partner-track or ownership roles."
-      },
-      "aafp-disability-plan": {
-        "slug": "aafp-disability-plan",
-        "title": "AAFP Disability Plan Review: Where Coverage Falls Short",
-        "description": "AAFP coverage caps at $8K-$12K monthly, far below mid-career family physician income. See where the plan fits and where individual coverage matters.",
-        "url": "https://seaworthy.io/associations/aafp-disability-plan/",
-        "publishDate": "2026-04-06",
-        "tldr": "The AAFP group disability plan provides accessible coverage for family physicians but caps benefits significantly below what primary care physicians earn at peak practice. The plan uses broad medical professional definitions rather than distinguishing primary care duties from other medical work, lacks critical riders for residual disability and income growth, and ties coverage to AAFP membership. Family physicians earning above $220,000 should treat the AAFP plan as a supplement, not as primary income protection."
-      },
-      "aao-disability-plan": {
-        "slug": "aao-disability-plan",
-        "title": "AAO Disability Plan: Coverage Guide for Ophthalmologists",
-        "description": "AAO coverage doesn't track fine-motor and procedural risk specific to eye surgery. See where the plan fits and how individual coverage compares.",
-        "url": "https://seaworthy.io/associations/aao-disability-plan/",
-        "publishDate": "2026-04-06",
-        "tldr": "The AAO group disability plan provides accessible coverage for ophthalmologists through streamlined enrollment but caps benefits well below what most eye surgeons earn. The plan uses broad medical practice language rather than distinguishing between surgical, laser, and non-procedural ophthalmology work, limiting its application when ophthalmologists face visual or motor impairment. Benefit caps, missing residual disability riders, and lack of COLA protection create substantial income gaps. Ophthalmologists earning above $250,000 should treat the AAO plan as supplemental coverage only, not primary income protection."
-      },
-      "aap-disability-plan": {
-        "slug": "aap-disability-plan",
-        "title": "AAP Disability Plan: Coverage Gaps Pediatricians Should Know",
-        "description": "AAP group disability caps benefits below mid-career pediatricians and uses generic medical language. Where the plan fits and where individual matters.",
-        "url": "https://seaworthy.io/associations/aap-disability-plan/",
-        "publishDate": "2026-04-06",
-        "tldr": "The AAP group disability plan offers pediatricians accessible baseline coverage but caps benefits well below what pediatricians earn during peak practice years. The plan uses broad medical professional definitions rather than distinguishing pediatric practice from other specialties, lacks critical riders for partial disability and future increases, and ties coverage to AAP membership. Pediatricians with earnings above $200,000, particularly those in subspecialties or practice ownership, should treat the AAP plan as a supplement, not as primary protection."
-      },
-      "acep-disability-plan": {
-        "slug": "acep-disability-plan",
-        "title": "ACEP Disability Plan Review: Gaps ER Physicians Should Know",
-        "description": "ACEP group disability caps benefits below ER physician income and uses generic medical language. Where it fits and where individual coverage matters.",
-        "url": "https://seaworthy.io/associations/acep-disability-plan/",
-        "publishDate": "2026-04-06",
-        "tldr": "The ACEP group disability plan provides accessible coverage for emergency physicians but caps benefits significantly below what EM physicians earn in high-performing shifts and contracts. The plan uses broad medical professional definitions rather than addressing the unique demands of emergency medicine work, lacks critical riders for partial disability and income growth, and ties coverage to ACEP membership. Emergency physicians earning above $300,000, particularly those with shift-based income documentation or multiple income sources, should treat the ACEP plan as a supplement, not as primary protection."
-      },
-      "acs-disability-plan": {
-        "slug": "acs-disability-plan",
-        "title": "ACS Disability Plan: Coverage Gaps Surgeons Should Know",
-        "description": "ACS group coverage uses general medical language that won't protect surgical-specific procedures. Where the plan fits and where it leaves income exposed.",
-        "url": "https://seaworthy.io/associations/acs-disability-plan/",
-        "publishDate": "2026-04-06",
-        "tldr": "The ACS group disability plan provides accessible coverage for surgeons through simplified enrollment but caps benefits significantly below what most surgeons earn. The plan uses broad surgical occupational language rather than distinguishing between different types of surgical work, limiting its application when surgeons face partial functional impairment. Benefit caps, missing residual disability riders, and lack of COLA protection create substantial income gaps. Surgeons earning above $200,000 should treat the ACS plan as supplemental coverage only, not primary income protection."
-      },
       "ada-disability-plan": {
         "slug": "ada-disability-plan",
-        "title": "ADA Disability Plan Review: Gaps Dentists Should Know",
-        "description": "ADA coverage has procedural gaps that miss dental-specific disability. See what the plan covers, what it leaves out, and when individual coverage matters.",
+        "title": "The ADA Disability Plan for Dentists: What It Covers and Where It Falls Short",
+        "description": "The ADA-sponsored disability plan from Protective: premiums that step up every five years and can be changed for the group annually, residual benefits that require a prior total disability, the $15,000 cap, membership-tied coverage, and where an individual policy is the stronger core.",
         "url": "https://seaworthy.io/associations/ada-disability-plan/",
         "publishDate": "2026-04-03",
-        "tldr": "The ADA group disability plan gives dentists affordable baseline coverage but caps benefits below what most practice owners and specialists earn. The plan's occupational definition may not adequately distinguish between procedural dentistry and non-clinical work. Dentists face elevated disability risk from musculoskeletal injuries, hand tremor, and repetitive strain, making specialty-specific individual coverage essential."
+        "tldr": "The ADA Disability Income Protection Plan, underwritten by Protective, is a group certificate with structural limits a high-earning dentist outgrows: premiums step up every five years on attained age and the group's rates can change as often as once every 12 months, the base residual benefit pays only after a prior total disability, and the $15,000 ceiling cannot be raised past the plan maximum. Coverage also ends if you leave the ADA, stop working full time, retire, or the Association terminates the group policy. An individual policy closes each of those gaps with a level non-cancelable premium, residual that pays on income loss alone, benefit capacity sized to income, and a contract you own regardless of memberships."
       },
       "ama-group-disability": {
         "slug": "ama-group-disability",
-        "title": "AMA Disability Insurance Review: Plan Limits for Physicians",
-        "description": "AMA group disability uses generic occupational language that misses specialty risk. See where the plan fits and how it compares to individual coverage.",
+        "title": "The AMA-Sponsored Disability Plan for Physicians: What It Covers and Where It Falls Short",
+        "description": "The AMA-sponsored group disability plan from New York Life: age-banded premiums, a one-time three-year benefit increase window, the 24-month mental and nervous cap, conditional renewability, and where an individual policy is the stronger core.",
         "url": "https://seaworthy.io/associations/ama-group-disability/",
         "publishDate": "2026-04-06",
-        "tldr": "The AMA group disability plan provides accessible coverage for physicians through group purchasing but caps benefits well below what high-earning and specialist physicians actually earn. The plan uses broad occupational language tied to general medical practice rather than specialty-specific criteria, lacks essential riders for partial disability and inflation protection, and ties coverage to AMA membership status. Physicians earning above $200,000 should treat the AMA plan as supplemental coverage, not primary income protection."
-      },
-      "avma-disability-plan": {
-        "slug": "avma-disability-plan",
-        "title": "AVMA Disability Plan Review: Gaps Veterinarians Should Know",
-        "description": "AVMA group coverage misses surgical risk and caps benefits below mid-career vet income. See where the plan fits and where individual coverage matters.",
-        "url": "https://seaworthy.io/associations/avma-disability-plan/",
-        "publishDate": "2026-04-03",
-        "tldr": "The AVMA group disability plan provides veterinarians with accessible baseline coverage but caps benefits below what practice owners, specialists, and experienced practitioners earn. The plan uses broad veterinary definitions that do not distinguish between surgical, large-animal, and companion-animal practice. Veterinarians face elevated disability risk from animal-related injuries, musculoskeletal strain, and occupational exposure, making specialty-specific individual coverage essential."
+        "tldr": "The AMA-sponsored disability plan, underwritten by New York Life, is group coverage with structural limits a high-earning physician outgrows. Premiums increase at every age bracket and rates can be raised class-wide for the whole group. Renewal requires that you remain a physician actively at work, that the group policy stays in force, and that the AMA keeps sponsoring it; retire early and the coverage ends. The benefit increase option is a one-time election within three years of issue and before age 40, mental and nervous claims cap at 24 months, residual benefits require a prior total disability, and combined coverage cannot exceed 66 2/3% of income or $30,000 a month. An individual policy closes each of those gaps: a level non-cancelable premium, an increase option open typically to age 55, full-period mental and nervous coverage for most specialties, residual that pays on income loss alone, and renewal terms fixed at issue."
       }
     }
   },
@@ -782,6 +1126,11 @@
         "Highest financial-strength tier"
       ],
       "dividendPotential": false,
+      "residualThreshold": "15%",
+      "mentalNervous": "No time cap by default for most occupations; the 24-month cap is required for high-risk groups including CRNAs and pharmacists",
+      "notableExtras": "No default mental-health cap for most occupations",
+      "financialRating": "Highest tier (A.M. Best, S&P, Moody's)",
+      "underwriting": "Most conservative",
       "profile": "https://seaworthy.io/carriers/guardian/",
       "bestFor": "High earners who prioritize contract strength and claims reputation"
     },
@@ -792,11 +1141,16 @@
       "strengths": [
         "Participating company (dividend potential)",
         "Only major writing active-duty military",
-        "Military, government, and resident discounts"
+        "Military and resident discounts"
       ],
       "dividendPotential": true,
+      "residualThreshold": "15%",
+      "mentalNervous": "24-month cap, removable by endorsement (not in CA)",
+      "notableExtras": "Active-military eligible; military discount (physicians 25%, dentists 10%); resident discount programs commonly reaching 20% for medical and 10% for dental residents (program-dependent)",
+      "financialRating": "Highest tier",
+      "underwriting": "Moderate",
       "profile": "https://seaworthy.io/carriers/massmutual/",
-      "bestFor": "Long-term holders, active military, government employees, and residents"
+      "bestFor": "Long-term holders, active military, and residents"
     },
     {
       "carrier": "Principal",
@@ -808,6 +1162,11 @@
         "Strong for complex or borderline files"
       ],
       "dividendPotential": false,
+      "residualThreshold": "15% (recovery at 20%)",
+      "mentalNervous": "Class-specific: most occupations choose full benefit period or a 24-month cap for a discount; 24-month required for ER, anesthesia, pain management, CRNAs, and pharmacists",
+      "notableExtras": "No-cost growth riders; lump-sum cancer and stroke benefit",
+      "financialRating": "Strong",
+      "underwriting": "Most flexible of the five",
       "profile": "https://seaworthy.io/carriers/principal/",
       "bestFor": "Complex or borderline files; surgical and dental specialties"
     },
@@ -818,9 +1177,15 @@
       "strengths": [
         "Highest business-overhead-expense limit of the majors ($100K)",
         "Competitive pricing",
-        "Best for clean files"
+        "Best for clean files",
+        "Ameritas markets built-in benefits on Cornerstone (Good Health Benefit reducing the elimination period, COBRA premium reimbursement, nondisabling-injury advancement, presumptive disability not requiring permanence)"
       ],
       "dividendPotential": false,
+      "residualThreshold": "15%",
+      "mentalNervous": "Choice for most classes on Cornerstone: 24-month cap (with a premium discount) or full-benefit-period coverage; the cap is required for anesthesiology, ER, and OB/GYN classes, lower classes, and the GR product",
+      "notableExtras": "$100K business-overhead limit (highest of the majors); built-in Good Health, COBRA, and nondisabling-injury benefits",
+      "financialRating": "Strong",
+      "underwriting": "Conservative; best for clean files",
       "profile": "https://seaworthy.io/carriers/ameritas/",
       "bestFor": "Clean files; owners needing high business-overhead limits"
     },
@@ -834,6 +1199,11 @@
         "Strong across career stages"
       ],
       "dividendPotential": false,
+      "residualThreshold": "20%",
+      "mentalNervous": "24-month limitation (class-dependent)",
+      "notableExtras": "Family Care Benefit; COLA choice of 3% or 6%",
+      "financialRating": "Strong",
+      "underwriting": "Flexible",
       "profile": "https://seaworthy.io/carriers/the-standard/",
       "bestFor": "Higher occupation classes seeking contract clarity"
     }
