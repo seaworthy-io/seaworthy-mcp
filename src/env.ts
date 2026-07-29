@@ -9,4 +9,8 @@ export interface Env {
   ABUSE_KV: KVNamespace;
   // Verified-knowledge KV (key "mcp-knowledge", generated from CONTENT-TRUTH.md).
   KB?: KVNamespace;
+  // GA4 Measurement Protocol (server-side lead key events). Measurement ID is a
+  // plain var; the API secret is a wrangler secret. Both absent = silently off.
+  GA4_MEASUREMENT_ID?: string;
+  GA4_API_SECRET?: string;
 }
