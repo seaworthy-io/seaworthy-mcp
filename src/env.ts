@@ -13,4 +13,7 @@ export interface Env {
   // plain var; the API secret is a wrangler secret. Both absent = silently off.
   GA4_MEASUREMENT_ID?: string;
   GA4_API_SECRET?: string;
+  // mcpindex.ai ownership-challenge token (15-min TTL, set at deploy time via
+  // --var when a claim/re-verification is in flight). Absent = route 404s.
+  MCPINDEX_CHALLENGE?: string;
 }
