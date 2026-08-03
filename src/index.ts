@@ -227,6 +227,13 @@ export default {
       return jsonResponse({ ok: true, service: SERVER_INFO });
     }
 
+    if (url.pathname === '/.well-known/mcpindex-challenge') {
+      if (!env.MCPINDEX_CHALLENGE) return new Response('Not Found', { status: 404, headers: CORS_HEADERS });
+      return new Response(env.MCPINDEX_CHALLENGE, {
+        headers: { 'Content-Type': 'text/plain; charset=utf-8', 'Cache-Control': 'no-store' }
+      });
+    }
+
     if (url.pathname === '/.well-known/mcp/server-card.json') {
       // No-store: the card reflects live auth posture and must never serve stale
       // (a cached OAuth-era card would misdirect agents to a non-existent flow).
